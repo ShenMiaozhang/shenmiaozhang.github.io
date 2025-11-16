@@ -15,7 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<h1 style="text-align: center; font-size: 2em;">Hi! 👏 I am Miao-Zhang Shen</h1>
+
 <span class='anchor' id='about-me'></span>
+
+<p style="text-align: center;">
+  <img src="/images/let-it-be.jpg" alt="我的装饰图片" style="width: 20%; border-radius: 10px;">
+</p>
 
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
 I received my B.S. degree from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
@@ -27,6 +33,9 @@ My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn
 My research interests include Magnetic robotics, Medical robotics, and Smart Healthcare.
 
 **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.**
+
+
+My favorite band🎸 is The Beatles.
 
 # 🔥 News
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the Outstanding Graduate Research Assistant Award.
@@ -131,15 +140,17 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
   - Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.
   - Mentored teams for science events, resulting in multiple provincial and national competition awards.
 
-# 💻 Internships
+# 💼 Internships
 - *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
 
-# 🛠 Skills
-- **Programming:** C/C++, Python, MATLAB
-- **Tools/Software:** PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
-- **Hardware/Systems:** MCU & SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
-- **Languages:** Mandarin (Native), Teochew (Native), English (CET-6)
-- **Interests:** Flight Simulation, Drone Design & Prototyping, Photography
+# 🛠️ Skills
+- **Programming:** ⌨️C/C++, Python, MATLAB
+- **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
+- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
+- **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
+- **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
+
+# 🚀 Project
 
 
 
