@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! Welcome to my website. I am **Miaozhang Shen**, and you can also call me **Leo Shen**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
-I received my B.S. degree from **Shenzhen University** (深圳大学物理与光电工程学院) in 2022. Currently, I am an M.S. student at the **Southern University of Science and Technology (SUSTech)** (南方科技大学电子与电气工程系) in Shenzhen.
+Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
+I received my B.S. degree from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
 
-My supervisor is [Prof. Shuxiang Guo (郭书祥)](http://www.guolab.org) (IEEE Fellow, Fellow of EAJ).
+My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). [Welcome to GUO Lab!](http://www.guolab.org)
 
 
 My research interests include Magnetic robotics, Medical robotics, and Smart Healthcare.
@@ -44,16 +44,21 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted Nov. 2025</div><img src='images/TIM_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/TIM_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Online Pose Self-Calibration Framework of Deformable Magnetometer Arrays for Enable Accurate Capsule Endoscope Tracking](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id)
 
-**Shen, M.**, Guo, S. et al.
+**Shen, M.**, Wang, Z., Guo, S. et al.
 
 *IEEE Transactions on Instrumentation and Measurement* (Under Review)
 </div>
 </div>
+
+
+
+
+- [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376), Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S., *Optics Communications, Vol. 571, 132376*, Published 2025.8.25
 
 
 
@@ -62,7 +67,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 [Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id)
 
-**Shen, M.**, Guo, S. et al.
+**Shen, M.**, Guo, S., Wang, Z. et al.
 
 *2025 IEEE International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
 </div>
@@ -71,12 +76,40 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 <!-- - [Real-time, Data-Efficient 5-DoF Magnetic Localization for Capsule Endoscopy: A Comparative Study of Physics-Informed Learning Paradigms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id), **Shen, M.**, Guo, S. et al., *IEEE Transactions on Industrial Informatics* (Under Review), Submitted Aug. 2025 -->
 
-- [Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id), **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3
-- [A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id), Wang, Z. **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3
-- [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376), Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S., *Optics Communications, Vol. 571, 132376*, Published 2025.8.25
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
+
+**Shen, M.**, Guo, S., Wang, Z., et al.
+
+*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
+</div>
+</div>
+
+
+
+<!-- - [Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690), **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828)
+
+Wang, Z., **Shen, M.**, Guo, S. et al.
+
+*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
+</div>
+</div>
+
+
+
+<!-- - [A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828), Wang, Z., **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3 -->
+
 
 # 🎖 Honors and Awards
-- *2025* Outstanding Graduate Research Assistant Award **(Top 20% in Department)**
+- *2025* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in Department)**
 - *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
 - *2021* **1st Prize (Provincial)**, 12th "Lanqiao Cup" Software and IT Competition, Guangdong
 - *2021* Shenzhen University Liyuan Star Scholarship **(Top 5% Scholarship)**
@@ -84,19 +117,31 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 - *2019-2021* Multiple university honors including Excellent Student Leader and Innovation Star Scholarships
 
 # 📖 Educations
-- *Sep 2024 - June 2027 (Expected)*, Master of Electronic Information, Southern University of Science and Technology, Shenzhen
-- *Sep 2018 - June 2022*, Bachelor of Engineering in Measurement Control Technology, Shenzhen University, Shenzhen
+- *Sep. 2024 - Jun. 2027 (Expected)*, Master of Electronic Information, Southern University of Science and Technology, Shenzhen
+- *Sep. 2018 - Jun. 2022*, Bachelor of Engineering in Measurement Control Technology, Shenzhen University, Shenzhen
 
 # 💻 Professional Experience
 - *Apr. 2023 - Aug. 2024*, **Embedded Software Engineer**, [Shenzhen Makeblock Co., Ltd.](https://www.makextool.com/)
   - Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).
   - Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.
-- *Dec 2021 – Oct 2022*, **Research Assistant**, Shenzhen University (College of Physics and Optoelectronic Engineering)
+- *Dec. 2021 – Oct. 2022*, **Research Assistant**, Shenzhen University (College of Physics and Optoelectronic Engineering)
   - Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.
   - Designed and implemented robust sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.
-- *July 2020 – July 2021*, **Founder and Student Chair**, Innovation Laboratory, Shenzhen University
+- *Jul. 2020 – Jul. 2021*, **Founder and Student Chair**, Innovation Laboratory, Shenzhen University
   - Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.
   - Mentored teams for science events, resulting in multiple provincial and national competition awards.
+
+# 💻 Internships
+- *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
+
+# 🛠 Skills
+- **Programming:** C/C++, Python, MATLAB
+- **Tools/Software:** PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
+- **Hardware/Systems:** MCU & SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
+- **Languages:** Mandarin (Native), Teochew (Native), English (CET-6)
+- **Interests:** Flight Simulation, Drone Design & Prototyping, Photography
+
+
 
 <!-- 
 {% if site.google_scholar_stats_use_cdn %}
