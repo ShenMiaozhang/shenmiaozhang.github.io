@@ -74,7 +74,7 @@ My favorite band🎸 is The Beatles.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id)
+[Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
 
 **Shen, M.**, Guo, S., Wang, Z. et al.
 
