@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<h1 style="text-align: center; font-size: 2em;">Hi! 👏 I am Miao-Zhang Shen</h1>
+<h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am Miao-Zhang Shen</h1>
 
 <span class='anchor' id='about-me'></span>
 
