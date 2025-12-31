@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: center;">
-  <img src="/images/IMG_1037.JPG" alt="我的装饰图片" style="width: 20%; border-radius: 10px;">
+  <img src="/images/IMG_1037.JPG" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
 </p>
 
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
@@ -35,10 +35,10 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.**
 
 
-My favorite band🎸 is The Beatles.
+<!-- My favorite band🎸 is The Beatles. -->
 
 # 🔥 News
-- *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎TOP 3 contributors in Guolab.
+- *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the Outstanding Graduate Research Assistant Award.
 
 
