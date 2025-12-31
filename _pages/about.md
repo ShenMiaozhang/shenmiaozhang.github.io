@@ -67,7 +67,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/Optics_Communications.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376)
