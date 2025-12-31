@@ -24,6 +24,8 @@ redirect_from:
 </p>
 
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
+
+
 I received my B.S. degree from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
 
@@ -65,10 +67,19 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/Optics_Communications.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376)
+
+Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
+
+*Optics Communications, Vol. 571, 132376*, Published 2025.8.25
+</div>
+</div>
 
 
-
-- [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376), Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S., *Optics Communications, Vol. 571, 132376*, Published 2025.8.25
+<!-- - [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376), Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S., *Optics Communications, Vol. 571, 132376*, Published 2025.8.25 -->
 
 
 
