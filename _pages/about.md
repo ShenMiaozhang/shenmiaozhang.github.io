@@ -152,9 +152,9 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
 
 # 🛠️ Skills
-- **Programming:** ⌨️C/C++, Python, MATLAB
+<!-- - **Programming:** ⌨️C/C++, Python, MATLAB
 - **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
-- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
+- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS) -->
 - **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
 - **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
 
