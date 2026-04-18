@@ -34,7 +34,7 @@ My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn
 
 My research interests include Magnetic robotics, Medical robotics, and Smart Healthcare.
 
-**I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.**
+<!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
 
 
 <!-- My favorite band🎸 is The Beatles. -->
