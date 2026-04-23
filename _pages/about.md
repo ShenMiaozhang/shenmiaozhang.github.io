@@ -40,10 +40,10 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 <!-- My favorite band🎸 is The Beatles. -->
 
 # 🔥 News
+- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics. 
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the Outstanding Graduate Research Assistant Award.
-<!-- - *Nov. 2025*: &nbsp;🎉🎉 Our paper "Online Pose Self-Calibration Framework of Deformable Magnetometer Arrays for Enable Accurate Capsule Endoscope Tracking" was submitted to IEEE Transactions on Instrumentation and Measurement.
-- *Aug. 2025*: &nbsp;🎉🎉 Our paper "Real-time, Data-Efficient 5-DoF Magnetic Localization for Capsule Endoscopy: A Comparative Study of Physics-Informed Learning Paradigms" was submitted to IEEE Transactions on Industrial Informatics. -->
+<!-- - *Nov. 2025*: &nbsp;🎉🎉 Our paper "Online Pose Self-Calibration Framework of Deformable Magnetometer Arrays for Enable Accurate Capsule Endoscope Tracking" was submitted to IEEE Transactions on Instrumentation and Measurement.-->
 - *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks" was accepted by Optics Communications.
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization" was accepted by IROS 2025.
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments" was accepted by ICMA 2025.
@@ -51,6 +51,17 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/TII-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy]()
+
+**Shen, M.**,Guo, S., Wang, Z. et al.
+
+*IEEE Transactions on Industrial Informatics* (Accept)
+</div>
+</div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/TIM_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
