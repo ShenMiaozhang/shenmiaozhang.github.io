@@ -51,7 +51,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/TII-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy]()
