@@ -59,7 +59,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 **Shen, M.**,Guo, S., Wang, Z. et al.
 
-*IEEE Transactions on Industrial Informatics* (Accept)
+*IEEE Transactions on Industrial Informatics* (Accepted, 2026.4.22)
 </div>
 </div>
 
