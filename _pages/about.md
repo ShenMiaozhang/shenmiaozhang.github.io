@@ -26,13 +26,13 @@ redirect_from:
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
 
 
-I received my B.S. degree from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
+I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student in Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
 
 My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). [Welcome to GUO Lab!](http://www.guolab.org)
 
 
-My research interests include Magnetic robotics, Medical robotics, and Smart Healthcare.
+My research interests include Magnetic robotics, Medical robotics, and Soft robotics.
 
 <!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
 
@@ -59,7 +59,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 **Shen, M.**,Guo, S., Wang, Z. et al.
 
-*IEEE Transactions on Industrial Informatics* (Accepted, 2026.4.22)
+*IEEE Transactions on Industrial Informatics* (Accepted, 2026.4.22) **(IF: 9.9, JCR Q1, CAS Q1)**
 </div>
 </div>
 
@@ -82,7 +82,7 @@ My research interests include Magnetic robotics, Medical robotics, and Smart Hea
 
 Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 
-*Optics Communications, Vol. 571, 132376*, Published 2025.8.25
+*Optics Communications, Vol. 571, 132376*, Published 2025.8.25 **(IF: 2.5, JCR Q2, CAS Q3)**
 </div>
 </div>
 
