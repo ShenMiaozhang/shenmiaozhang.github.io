@@ -42,6 +42,7 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics. 
 - *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
+- *Jan. 2026*: &nbsp;🎉🎉 Our paper "Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure" was accepted by Biomimetics.
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
 - *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks" was accepted by Optics Communications.
@@ -51,7 +52,9 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
+
+<!-- ======================================================== Publications: 2026 ============================================================================= -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
@@ -70,10 +73,22 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 **Shen, M.**,Guo, S., Wang, Z. et al.
 
-*IEEE Transactions on Industrial Informatics* Published, 2026.5.15 **(IF: 9.9, JCR Q1, CAS Q1)**
+*IEEE Transactions on Industrial Informatics* Published, 2026.5.15 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure](https://doi.org/10.3390/biomimetics11010041)
+
+Wang, Z. **Shen, M.**, Guo, S. et al.
+
+*Biomimetics* Published, 2026.5.15 
+</div>
+</div>
+
+<!-- ======================================================== Publications: 2025 ============================================================================= -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,7 +96,7 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 
-*Optics Communications, Vol. 571, 132376*, Published 2025.8.25 **(IF: 2.5, JCR Q2, CAS Q3)**
+*Optics Communications, Vol. 571, 132376*, Published 2025.8.25 
 </div>
 </div>
 
@@ -120,7 +135,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </div>
 
 # 🎖 Honors and Awards
-- *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
+- *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
 - *2025* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**
 - *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
 - *2021* **1st Prize (Provincial)**, 12th "Lanqiao Cup" Software and IT Competition, Guangdong
@@ -147,9 +162,9 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
 
 # 🛠️ Skills
-<!-- - **Programming:** ⌨️C/C++, Python, MATLAB
+- **Programming:** ⌨️C/C++, Python, MATLAB
 - **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
-- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS) -->
+- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
 - **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
 - **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
 
