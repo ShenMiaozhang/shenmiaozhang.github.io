@@ -73,18 +73,18 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 **Shen, M.**,Guo, S., Wang, Z. et al.
 
-*IEEE Transactions on Industrial Informatics* Published, 2026.5.15 
+*IEEE Transactions on Industrial Informatics*, Published 2026.5.15 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure](https://doi.org/10.3390/biomimetics11010041)
 
 Wang, Z. **Shen, M.**, Guo, S. et al.
 
-*Biomimetics* Published, 2026.5.15 
+*Biomimetics*, Published 2026.1.6
 </div>
 </div>
 
@@ -96,7 +96,7 @@ Wang, Z. **Shen, M.**, Guo, S. et al.
 
 Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 
-*Optics Communications, Vol. 571, 132376*, Published 2025.8.25 
+*Optics Communications*, Published 2025.8.25 
 </div>
 </div>
 
