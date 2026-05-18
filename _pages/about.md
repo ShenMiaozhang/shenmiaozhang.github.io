@@ -19,61 +19,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- <p style="text-align: center;">
-  <img src="/images/IMG_1037.JPG" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
-</p> -->
+<p style="text-align: center;">
+  <img src="/images/DJI_20251120180653.png" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
+</p>
 
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
 
 
 I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student in Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
-
 My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). [Welcome to GUO Lab!](http://www.guolab.org)
 
 
-My research interests include Magnetic robotics, Medical robotics, and Soft robotics.
+<!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
+My research focuses on magnetic sensing and localization for minimally invasive robotic systems, including wireless capsule endoscopy and magnetically actuated medical devices. I am interested in integrating electromagnetic modeling, embedded sensing systems, and real-time estimation methods for robotic perception, localization, and magnetic control in clinically relevant environments.
 
 <!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
 
 
-<!-- My favorite band🎸 is The Beatles. -->
 
 # 🔥 News
+- *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics. 
 - *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
-<!-- - *Nov. 2025*: &nbsp;🎉🎉 Our paper "Online Pose Self-Calibration Framework of Deformable Magnetometer Arrays for Enable Accurate Capsule Endoscope Tracking" was submitted to IEEE Transactions on Instrumentation and Measurement.-->
 - *Aug. 2025*: &nbsp;🎉🎉 Our paper "Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks" was accepted by Optics Communications.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization" was accepted by IROS 2025.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments" was accepted by ICMA 2025.
-- *Jun. 2025*: &nbsp;🎉🎉 Our paper "A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function" was accepted by ICMA 2025.
+- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization" was accepted by IEEE IROS 2025.
+- *Jun. 2025*: &nbsp;🎉🎉 Our paper "Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments" was accepted by IEEE ICMA 2025.
+- *Jun. 2025*: &nbsp;🎉🎉 Our paper "A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function" was accepted by IEEE ICMA 2025.
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
+
+**Shen, M.**,Guo, S. et al.
+
+*2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy]()
+[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
 
 **Shen, M.**,Guo, S., Wang, Z. et al.
 
-*IEEE Transactions on Industrial Informatics* (Accepted, 2026.4.22) **(IF: 9.9, JCR Q1, CAS Q1)**
+*IEEE Transactions on Industrial Informatics* Published, 2026.5.15 **(IF: 9.9, JCR Q1, CAS Q1)**
 </div>
 </div>
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM Submitted Nov. 2025</div><img src='images/TIM_2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Online Pose Self-Calibration Framework of Deformable Magnetometer Arrays for Enable Accurate Capsule Endoscope Tracking](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id)
-
-**Shen, M.**, Wang, Z., Guo, S. et al.
-
-*IEEE Transactions on Instrumentation and Measurement* (Under Review)
-</div>
-</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,10 +86,6 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 </div>
 
 
-<!-- - [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376), Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S., *Optics Communications, Vol. 571, 132376*, Published 2025.8.25 -->
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,10 +96,6 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 *2025 IEEE International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
 </div>
 </div>
-
-
-<!-- - [Real-time, Data-Efficient 5-DoF Magnetic Localization for Capsule Endoscopy: A Comparative Study of Physics-Informed Learning Paradigms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=your_scholar_id&citation_for_view=your_citation_id), **Shen, M.**, Guo, S. et al., *IEEE Transactions on Industrial Informatics* (Under Review), Submitted Aug. 2025 -->
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,10 +108,6 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 </div>
 </div>
 
-
-
-<!-- - [Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690), **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3 -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -131,11 +118,6 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
 </div>
 </div>
-
-
-
-<!-- - [A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828), Wang, Z., **Shen, M.**, Guo, S. et al., *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China, Published 2025.8.3 -->
-
 
 # 🎖 Honors and Awards
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
@@ -172,55 +154,3 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
 
 # 🚀 Project
-
-
-
-<!-- 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
