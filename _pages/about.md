@@ -52,7 +52,35 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function" was accepted by IEEE ICMA 2025.
 
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+
+# 📝 Selected Publications
+
+Representative first-author publications. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="Physics-informed magnetic localization for capsule endoscopy" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
+
+**Shen, M.**, Guo, S., Wang, Z. et al.
+
+*IEEE Transactions on Industrial Informatics*, 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="Physics-informed magnetic dipole model correction and localization" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
+
+**Shen, M.**, Guo, S., Wang, Z. et al.
+
+*2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
+</div>
+</div>
+
+# 📚 Other Publications
 
 <!-- ======================================================== Publications: 2026 ============================================================================= -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
@@ -60,21 +88,9 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 [A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
 
-**Shen, M.**,Guo, S. et al.
+**Shen, M.**, Guo, S. et al.
 
 *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
-
-**Shen, M.**,Guo, S., Wang, Z. et al.
-
-*IEEE Transactions on Industrial Informatics*, Published 2026.5.15 
 </div>
 </div>
 
@@ -97,19 +113,7 @@ Wang, Z. **Shen, M.**, Guo, S. et al.
 
 Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 
-*Optics Communications*, Published 2025.8.25 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
-
-**Shen, M.**, Guo, S., Wang, Z. et al.
-
-*2025 IEEE International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
+*Optics Communications*, Published 2025.8.25
 </div>
 </div>
 
