@@ -36,13 +36,21 @@ My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn
 My research focuses on magnetic sensing and localization for minimally invasive robotic systems, including wireless capsule endoscopy and magnetically actuated medical devices. I am interested in integrating electromagnetic modeling, embedded sensing systems, and real-time estimation methods for robotic perception, localization, and magnetic control in clinically relevant environments.
 
 <!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
+<span class='anchor' id='-news'></span>
 
+# 🔥 News {#news}
 
+<div class="news-latest" markdown="1">
 
-# 🔥 News
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
-- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics. 
+- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
 - *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
+
+</div>
+
+<details class="news-archive" markdown="1">
+<summary>Earlier news <span class="news-archive__count">7 updates</span></summary>
+
 - *Jan. 2026*: &nbsp;🎉🎉 Our paper "Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure" was accepted by Biomimetics.
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
@@ -50,6 +58,8 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization" was accepted by IEEE IROS 2025.
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments" was accepted by IEEE ICMA 2025.
 - *Jun. 2025*: &nbsp;🎉🎉 Our paper "A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function" was accepted by IEEE ICMA 2025.
+
+</details>
 
 
 <span class='anchor' id='publications'></span>
@@ -148,23 +158,98 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - *2020* Principal Investigator, Guangdong Provincial Undergraduate Innovation Training Program (¥10k Grant)
 - *2019-2021* Multiple university honors including Excellent Student Leader and Innovation Star Scholarships
 
-# 📖 Educations
-- *Sep. 2024 - Jun. 2027 (Expected)*, M.S. in Electronic Information, Southern University of Science and Technology, Shenzhen
-- *Sep. 2018 - Jun. 2022*, Bachelor of Engineering in Measurement Control Technology, Shenzhen University, Shenzhen
+<span class='anchor' id='-educations'></span>
 
-# 💻 Professional Experience
-- *Apr. 2023 - Aug. 2024*, **Embedded Software Engineer**, [Shenzhen Makeblock Co., Ltd.](https://www.makextool.com/)
-  - Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).
-  - Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.
-- *Dec. 2021 – Oct. 2022*, **Research Assistant**, Shenzhen University (College of Physics and Optoelectronic Engineering)
-  - Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.
-  - Designed and implemented robust sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.
-- *Jul. 2020 – Jul. 2021*, **Founder and Student Chair**, Innovation Laboratory, Shenzhen University
-  - Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.
-  - Mentored teams for science events, resulting in multiple provincial and national competition awards.
+# 📖 Education {#education}
 
-# 💼 Internships
-- *2021.07 - 2021.08*, [AIUTechnology](https://www.aiutechnology.com/), China.
+<div class="education-grid">
+  <article class="education-card education-card--sustech">
+    <a class="education-card__logo-wrap" href="https://www.sustech.edu.cn/en/" aria-label="Visit the SUSTech website">
+      <img class="education-card__logo" src="/images/education/sustech-logo.png" alt="SUSTech emblem" width="260" height="260" loading="lazy" decoding="async">
+    </a>
+    <div class="education-card__body">
+      <p class="education-card__period"><time datetime="2024-09">Sep. 2024</time> – <time datetime="2027-06">Jun. 2027 (Expected)</time></p>
+      <h2><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a></h2>
+      <p class="education-card__degree">M.S. in Electronic Information</p>
+      <p class="education-card__location">Shenzhen, China</p>
+    </div>
+  </article>
+
+  <article class="education-card education-card--szu">
+    <a class="education-card__logo-wrap" href="https://en.szu.edu.cn/" aria-label="Visit the Shenzhen University website">
+      <img class="education-card__logo" src="/images/education/shenzhen-university-logo.png" alt="Shenzhen University emblem" width="86" height="86" loading="lazy" decoding="async">
+    </a>
+    <div class="education-card__body">
+      <p class="education-card__period"><time datetime="2018-09">Sep. 2018</time> – <time datetime="2022-06">Jun. 2022</time></p>
+      <h2><a href="https://en.szu.edu.cn/">Shenzhen University</a></h2>
+      <p class="education-card__degree">B.Eng. in Measurement Control Technology and Instrumentation</p>
+      <p class="education-card__location">Shenzhen, China</p>
+    </div>
+  </article>
+</div>
+
+<span class='anchor' id='-professional-experience'></span>
+<span class='anchor' id='-internships'></span>
+
+# 💻 Experience {#experience}
+
+<ol class="experience-timeline">
+  <li class="experience-timeline__item">
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span><time datetime="2023-04">Apr. 2023</time> – <time datetime="2024-08">Aug. 2024</time></span>
+        <span class="experience-timeline__kind">Professional</span>
+      </div>
+      <h2>Embedded Software Engineer</h2>
+      <p class="experience-timeline__organization"><a href="https://www.makextool.com/">Shenzhen Makeblock Co., Ltd.</a></p>
+      <ul>
+        <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU &amp; SOC platform).</li>
+        <li>Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.</li>
+      </ul>
+    </article>
+  </li>
+
+  <li class="experience-timeline__item">
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></span>
+        <span class="experience-timeline__kind">Research</span>
+      </div>
+      <h2>Research Assistant</h2>
+      <p class="experience-timeline__organization">Shenzhen University · College of Physics and Optoelectronic Engineering</p>
+      <ul>
+        <li>Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.</li>
+        <li>Designed and implemented sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.</li>
+      </ul>
+    </article>
+  </li>
+
+  <li class="experience-timeline__item">
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span><time datetime="2021-07">Jul. 2021</time> – <time datetime="2021-08">Aug. 2021</time></span>
+        <span class="experience-timeline__kind">Internship</span>
+      </div>
+      <h2>Internship</h2>
+      <p class="experience-timeline__organization"><a href="https://www.aiutechnology.com/">AIUTechnology</a> · China</p>
+    </article>
+  </li>
+
+  <li class="experience-timeline__item">
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span><time datetime="2020-07">Jul. 2020</time> – <time datetime="2021-07">Jul. 2021</time></span>
+        <span class="experience-timeline__kind">Leadership</span>
+      </div>
+      <h2>Founder and Student Chair</h2>
+      <p class="experience-timeline__organization">Innovation Laboratory · Shenzhen University</p>
+      <ul>
+        <li>Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.</li>
+        <li>Mentored teams for science events, resulting in multiple provincial and national competition awards.</li>
+      </ul>
+    </article>
+  </li>
+</ol>
 
 # 🛠️ Skills {#skills}
 - **Programming:** ⌨️C/C++, Python, MATLAB
