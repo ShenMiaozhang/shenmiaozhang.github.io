@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-align: center; margin-bottom: 2em;">
-  <img src="/images/DJI_20251120180653.png" alt="我的装饰图片" style="width: 50%; border-radius: 10px;">
+  <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" decoding="async" fetchpriority="high" style="width: 50%; border-radius: 10px;">
   <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;">Capturing the last light over SUSTech.</span>
 </p>
 
@@ -29,7 +29,7 @@ Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also ca
 
 I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am an M.S. student in Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
 
-My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). [Welcome to GUO Lab!](http://www.guolab.org)
+My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). I also serve as a teaching assistant for Prof. Guo. [Welcome to GUO Lab!](http://www.guolab.org)
 
 
 <!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
@@ -58,7 +58,7 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 Representative first-author publications. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.png' alt="Physics-informed magnetic localization for capsule endoscopy" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.webp' alt="Experimental platform and tracking results for physics-informed magnetic localization" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
@@ -69,7 +69,7 @@ Representative first-author publications. Additional publications are listed bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.png' alt="Physics-informed magnetic dipole model correction and localization" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS2025.webp' alt="Physics-informed residual network architecture for magnetic dipole model correction" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
@@ -83,7 +83,7 @@ Representative first-author publications. Additional publications are listed bel
 # 📚 Other Publications
 
 <!-- ======================================================== Publications: 2026 ============================================================================= -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
@@ -94,7 +94,7 @@ Representative first-author publications. Additional publications are listed bel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/biomimetics2026.webp' alt="Flatworm-inspired soft robot with a staggered magnetization structure" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure](https://doi.org/10.3390/biomimetics11010041)
@@ -106,7 +106,7 @@ Wang, Z. **Shen, M.**, Guo, S. et al.
 </div>
 
 <!-- ======================================================== Publications: 2025 ============================================================================= -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Communications</div><img src='images/Optics_Communications2025.webp' alt="Asymmetric double-layer compact metasurface design" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric double-layer compact metasurfaces based on phase-progressive diffractive networks](https://doi.org/10.1016/j.optcom.2025.132376)
@@ -117,7 +117,7 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.webp' alt="Differential magnetic sensing system for capsule robot localization" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
@@ -128,7 +128,7 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.webp' alt="Flexible soft robotic bandage for gastrointestinal wound coverage" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828)
