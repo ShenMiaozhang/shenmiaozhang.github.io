@@ -40,6 +40,108 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Homepage: concise identity and research-focus hero.
+.about-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(280px, .85fr);
+    gap: clamp(1.5em, 4vw, 3em);
+    align-items: center;
+    margin: .35em 0 2.4em;
+    padding: 1.15em 0 1.75em;
+    border-bottom: 1px solid $border-color;
+}
+
+.about-hero__copy {
+    min-width: 0;
+}
+
+.about-hero__eyebrow {
+    margin: 0 0 .8em;
+    color: $link-color;
+    font-family: $sans-serif;
+    font-size: .72em;
+    font-weight: 700;
+    letter-spacing: .12em;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+
+.about-hero h1 {
+    margin: 0;
+    padding: 0;
+    border-bottom: 0;
+    line-height: 1.12;
+}
+
+.about-hero__positioning {
+    max-width: 32em;
+    margin: .95em 0 1.15em;
+    color: $darker-gray;
+    font-size: 1.12em;
+    font-weight: 600;
+    line-height: 1.55;
+}
+
+.research-keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+        padding: .32em .72em;
+        border: 1px solid mix(#fff, $link-color, 72%);
+        border-radius: 999px;
+        color: mix(#000, $link-color, 22%);
+        background: mix(#fff, $link-color, 94%);
+        font-family: $sans-serif;
+        font-size: .78em;
+        line-height: 1.35;
+    }
+}
+
+.about-hero__media {
+    margin: 0;
+
+    img {
+        display: block;
+        width: 100%;
+        max-width: 420px;
+        aspect-ratio: 16 / 9;
+        margin: 0 auto;
+        border: 1px solid $border-color;
+        border-radius: 8px;
+        object-fit: cover;
+        filter: saturate(.9);
+    }
+
+    figcaption {
+        margin-top: .65em;
+        color: mix(#fff, $text-color, 18%);
+        font-family: $sans-serif;
+        font-size: .75em;
+        letter-spacing: .02em;
+        text-align: center;
+    }
+}
+
+@media (max-width: $medium) {
+    .about-hero {
+        grid-template-columns: 1fr;
+        gap: 1.25em;
+    }
+
+    .about-hero__positioning {
+        max-width: none;
+    }
+
+    .about-hero__media img {
+        max-width: 560px;
+    }
+}
+
 .paper-box {
     display: flex;
     align-items: center;

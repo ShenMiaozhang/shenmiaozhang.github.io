@@ -15,14 +15,25 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<h1 style="text-align: center; font-size: 2em;">Hi! 👋 I am Miaozhang Shen</h1>
-
 <span class='anchor' id='about-me'></span>
 
-<p style="text-align: center; margin-bottom: 2em;">
-  <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" decoding="async" fetchpriority="high" style="width: 50%; border-radius: 10px;">
-  <span style="display: block; font-style: italic; color: #777; font-size: 0.85em; font-family: 'Georgia', serif; margin-top: 10px; letter-spacing: 0.5px;">Capturing the last light over SUSTech.</span>
-</p>
+<section class="about-hero" aria-labelledby="about-hero-title">
+  <div class="about-hero__copy">
+    <p class="about-hero__eyebrow">Research focus</p>
+    <h1 id="about-hero-title">Hi! 👋 I am Miaozhang Shen</h1>
+    <p class="about-hero__positioning">I develop physics-informed magnetic sensing and localization methods for minimally invasive medical robots.</p>
+    <ul class="research-keywords" aria-label="Research keywords">
+      <li>Magnetic sensing &amp; localization</li>
+      <li>Capsule endoscopy</li>
+      <li>Medical robotics</li>
+      <li>Real-time estimation</li>
+    </ul>
+  </div>
+  <figure class="about-hero__media">
+    <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" decoding="async" fetchpriority="high">
+    <figcaption>SUSTech campus, Shenzhen · DJI aerial photo</figcaption>
+  </figure>
+</section>
 
 Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
 
@@ -33,7 +44,7 @@ My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn
 
 
 <!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
-My research focuses on magnetic sensing and localization for minimally invasive robotic systems, including wireless capsule endoscopy and magnetically actuated medical devices. I am interested in integrating electromagnetic modeling, embedded sensing systems, and real-time estimation methods for robotic perception, localization, and magnetic control in clinically relevant environments.
+My work combines electromagnetic modeling, embedded sensing, and real-time estimation for robotic perception, localization, and magnetic control in clinically relevant environments. I am particularly interested in wireless capsule endoscopy and magnetically actuated medical devices.
 
 <!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
 <span class='anchor' id='-news'></span>
