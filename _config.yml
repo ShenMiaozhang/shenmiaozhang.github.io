@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Miaozhang Shen(沈淼章)"
-description              : "Focusing on Magnetic robotics, Medical robotics, and Smart Healthcare."
+description              : "Magnetic localization and sensing for medical robotics, combining electromagnetic modeling, embedded sensor arrays, and real-time systems for trustworthy operation under interference."
 repository               : "shenmiaozhang.github.io"
 google_scholar_stats_use_cdn : true
 
