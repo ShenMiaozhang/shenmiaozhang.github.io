@@ -21,17 +21,17 @@ redirect_from:
   <div class="about-hero__copy">
     <p class="about-hero__eyebrow">Research focus</p>
     <h1 id="about-hero-title">Hi! 👋 I am Miaozhang Shen</h1>
-    <p class="about-hero__positioning">I develop physics-informed magnetic sensing and localization methods for minimally invasive medical robots.</p>
+    <p class="about-hero__positioning">I develop physics-informed magnetic sensing and localization methods for minimally invasive medical robots, including vascular intervention and capsule endoscopy.</p>
     <ul class="research-keywords" aria-label="Research keywords">
       <li>Magnetic sensing &amp; localization</li>
+      <li>Vascular intervention</li>
       <li>Capsule endoscopy</li>
-      <li>Medical robotics</li>
       <li>Real-time estimation</li>
     </ul>
   </div>
   <figure class="about-hero__media">
-    <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" decoding="async" fetchpriority="high">
-    <figcaption>SUSTech campus, Shenzhen · DJI aerial photo</figcaption>
+    <img src="/images/vascular-magnetic-localization.webp" alt="Transparent vascular phantom over a magnetic sensor array for magnetic localization" width="1800" height="1350" decoding="async" fetchpriority="high">
+    <figcaption>Magnetic localization in a vascular phantom over a sensor array</figcaption>
   </figure>
 </section>
 
@@ -43,8 +43,12 @@ I received my B.S. degree in Measurement Control Technology and Instrumentation 
 My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). I also serve as a teaching assistant for Prof. Guo. [Welcome to GUO Lab!](http://www.guolab.org)
 
 
-<!-- My research interests include Magnetic robotics, Medical robotics, and Soft robotics. -->
-My work combines electromagnetic modeling, embedded sensing, and real-time estimation for robotic perception, localization, and magnetic control in clinically relevant environments. I am particularly interested in wireless capsule endoscopy and magnetically actuated medical devices.
+My work combines electromagnetic modeling, embedded sensing, and real-time estimation for robotic perception, localization, and magnetic control in clinically relevant environments. I am particularly interested in vascular intervention, wireless capsule endoscopy, and magnetically actuated medical devices.
+
+<figure class="about-campus-note">
+  <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" width="1200" height="676" loading="lazy" decoding="async">
+  <figcaption>SUSTech campus, Shenzhen · DJI aerial photo</figcaption>
+</figure>
 
 <!-- **I am actively seeking a Ph.D. position in related fields to begin in Fall 2027.** -->
 <span class='anchor' id='-news'></span>
