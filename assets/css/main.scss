@@ -42,67 +42,83 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
     align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    flex-direction: column;
+    gap: 1.25em;
+    padding: 1.5em 0;
+    border-bottom: 1px solid $border-color;
 
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
+    .paper-box-image {
         width: 100%;
-        order: 2;
+        order: 1;
+
+        > div > div {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            overflow: hidden;
+            border: 1px solid $border-color;
+            border-radius: 8px;
+            background: mix(#fff, $background-color, 96%);
+        }
+
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            display: block;
+            width: 100%;
+            height: 100%;
+            max-width: none;
+            object-fit: contain;
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
+        width: 100%;
+        min-width: 0;
         max-width: 100%;
-        order: 1;
+        order: 2;
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
+        flex-direction: row;
+        gap: 1.75em;
+
+        .paper-box-image {
+            flex: 0 0 40%;
             min-width: 200px;
             max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
         }
 
+        .paper-box-text {
+            flex: 1 1 60%;
+            max-width: none;
+        }
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+$scroll_offset: 4.5rem;
+
+h1[id] {
+    scroll-margin-top: $scroll_offset;
+}
+
+.anchor {
+    display: block;
+    position: relative;
+    top: -$scroll_offset;
+    visibility: hidden;
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    z-index: 1;
+    top: .5em;
+    left: 0;
+    margin: 0;
+    padding: .25em 1rem;
+    border-radius: 0 4px 4px 0;
     color: white;
     background-color: #00369f;
     font-size: .8em;

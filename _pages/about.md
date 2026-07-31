@@ -93,6 +93,8 @@ Representative first-author publications. Additional publications are listed bel
 
 # 📚 Other Publications
 
+Collaborative and co-authored publications.
+
 <!-- ======================================================== Publications: 2026 ============================================================================= -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/Optics_Express2026.jpg' alt="Physics-informed deep optics pipeline for monocular depth estimation" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
