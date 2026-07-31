@@ -70,6 +70,7 @@
     margin: 0;
     padding: 0;
     border-bottom: 0;
+    font-size: clamp(1.8em, 3vw, 2.2em);
     line-height: 1.12;
 }
 
@@ -91,6 +92,7 @@
     list-style: none;
 
     li {
+        margin-bottom: 0;
         padding: .32em .72em;
         border: 1px solid mix(#fff, $link-color, 72%);
         border-radius: 999px;
