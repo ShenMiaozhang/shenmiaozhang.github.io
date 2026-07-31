@@ -42,15 +42,16 @@ My research focuses on magnetic sensing and localization for minimally invasive 
 
 <div class="news-latest" markdown="1">
 
+- *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
-- *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
 
 </div>
 
 <details class="news-archive" markdown="1">
-<summary>Earlier news <span class="news-archive__count">7 updates</span></summary>
+<summary>Earlier news <span class="news-archive__count">8 updates</span></summary>
 
+- *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
 - *Jan. 2026*: &nbsp;🎉🎉 Our paper "Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure" was accepted by Biomimetics.
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
 - *Sep. 2025*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
@@ -93,6 +94,17 @@ Representative first-author publications. Additional publications are listed bel
 # 📚 Other Publications
 
 <!-- ======================================================== Publications: 2026 ============================================================================= -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/Optics_Express2026.jpg' alt="Physics-informed deep optics pipeline for monocular depth estimation" loading="lazy" decoding="async" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://yuyue-yang.github.io/)
+
+**Yuyue Yang**, Miaozhang Shen, et al.
+
+*Optics Express*, Accepted 2026.7.30
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
