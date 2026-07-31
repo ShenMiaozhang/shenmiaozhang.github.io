@@ -21,12 +21,12 @@ redirect_from:
   <div class="about-hero__copy">
     <p class="about-hero__eyebrow">Research focus</p>
     <h1 id="about-hero-title">Hi! 👋 I am Miaozhang Shen</h1>
-    <p class="about-hero__positioning">I develop physics-informed magnetic localization and sensing systems for medical robotics, combining electromagnetic modeling, embedded sensor arrays, and real-time control for reliable localization and feedback-controlled release under interference.</p>
+    <p class="about-hero__positioning">I develop physics-informed magnetic localization and sensing systems for medical robotics, combining electromagnetic modeling, embedded sensor arrays, and real-time systems for reliable localization and feedback-controlled release under interference.</p>
     <ul class="research-keywords" aria-label="Research keywords">
       <li>Magnetic localization &amp; sensing</li>
       <li>Medical robotics</li>
       <li>Electromagnetic modeling</li>
-      <li>Embedded arrays &amp; real-time systems</li>
+      <li>Embedded sensor arrays &amp; real-time systems</li>
       <li>Interference-robust feedback</li>
     </ul>
   </div>
@@ -44,7 +44,7 @@ I received my B.S. degree in Measurement Control Technology and Instrumentation 
 My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). I also serve as a teaching assistant for Prof. Guo. [Welcome to GUO Lab!](http://www.guolab.org)
 
 
-My work connects electromagnetic modeling with embedded sensor arrays and real-time systems to support trustworthy magnetic localization and sensing under interference. In medical robotics applications—including vascular intervention and wireless capsule endoscopy—I focus on robust feedback and controlled release in clinically relevant environments.
+My work connects electromagnetic modeling with embedded sensor arrays and real-time systems to support trustworthy magnetic localization and sensing under interference. In medical robotics applications—including vascular intervention and wireless capsule endoscopy—I focus on feedback-controlled release and robust localization under interference in clinically relevant environments.
 
 <figure class="about-campus-note">
   <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" width="1200" height="676" loading="lazy" decoding="async">
