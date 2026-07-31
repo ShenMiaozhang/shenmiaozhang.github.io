@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Miaozhang Shen(沈淼章)"
-description              : "Magnetic localization and sensing for medical robotics—electromagnetic modeling, embedded sensor arrays, and real-time systems for trustworthy localization and feedback-controlled release under interference."
+description              : "Magnetic sensing for medical robotics."
 repository               : "shenmiaozhang.github.io"
 google_scholar_stats_use_cdn : true
 
