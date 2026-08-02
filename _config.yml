@@ -14,6 +14,9 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# Cloudflare Web Analytics (public site token; results are visible in Cloudflare only)
+cloudflare_web_analytics_token : "c12cbc3d8ee3483fb9c61cc71ede4bb7"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
