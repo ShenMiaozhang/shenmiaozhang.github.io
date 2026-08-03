@@ -299,9 +299,9 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
     </div>
     <span class="visitor-footprint__status"><span aria-hidden="true"></span>Live map</span>
   </div>
-  <div class="visitor-footprint__widget" role="region" aria-label="Live visitor map">
-    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=080808&amp;w=300&amp;t=n&amp;d=z9T0WZAF31LnLqbEGRFQ8asgtU5JJTensL-Nb4GD68I&amp;co=ffffff&amp;cmo=3acc3a&amp;cmn=ff5353&amp;ct=808080"></script>
-    <noscript>Enable JavaScript to view the visitor map.</noscript>
+  <div class="visitor-footprint__widget" role="region" aria-label="Live visitor globe">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=RHMwMJbGhdSoUAAgTcyUAjpHlheYGk9c-GtHhm1rV1c"></script>
+    <noscript>Enable JavaScript to view the visitor globe.</noscript>
   </div>
   <p class="visitor-footprint__note">Approximate country-level activity · <a href="https://mapmyvisitors.com/b/policy" target="_blank" rel="noopener noreferrer">MapMyVisitors privacy policy</a></p>
 </section>
