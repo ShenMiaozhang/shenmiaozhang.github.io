@@ -46,6 +46,21 @@ My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn
 
 My work connects electromagnetic modeling with embedded sensor arrays and real-time systems. I study trustworthy localization and feedback-controlled release under interference, with applications in vascular intervention and wireless capsule endoscopy.
 
+<section class="visitor-footprint" aria-labelledby="visitor-footprint-title">
+  <div class="visitor-footprint__header">
+    <div>
+      <p class="visitor-footprint__eyebrow">Visitor footprint</p>
+      <h2 id="visitor-footprint-title">A small window to the world</h2>
+      <p class="visitor-footprint__intro">See where visitors are joining from. Locations are approximate and update as new visits arrive.</p>
+    </div>
+    <span class="visitor-footprint__status"><span aria-hidden="true"></span>Live map</span>
+  </div>
+  <div class="visitor-footprint__widget" aria-label="Live visitor globe">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=RHMwMJbGhdSoUAAgTcyUAjpHlheYGk9c-GtHhm1rV1c"></script>
+  </div>
+  <p class="visitor-footprint__note">Approximate country-level activity · MapMyVisitors</p>
+</section>
+
 <figure class="about-campus-note">
   <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" width="1200" height="676" loading="lazy" decoding="async">
   <figcaption>SUSTech campus, Shenzhen · DJI aerial photo</figcaption>
