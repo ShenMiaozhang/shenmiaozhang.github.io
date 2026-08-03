@@ -55,10 +55,11 @@ My work connects electromagnetic modeling with embedded sensor arrays and real-t
     </div>
     <span class="visitor-footprint__status"><span aria-hidden="true"></span>Live map</span>
   </div>
-  <div class="visitor-footprint__widget" aria-label="Live visitor globe">
+  <div class="visitor-footprint__widget" role="region" aria-label="Live visitor globe">
     <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=RHMwMJbGhdSoUAAgTcyUAjpHlheYGk9c-GtHhm1rV1c"></script>
+    <noscript>Enable JavaScript to view the visitor globe.</noscript>
   </div>
-  <p class="visitor-footprint__note">Approximate country-level activity · MapMyVisitors</p>
+  <p class="visitor-footprint__note">Approximate country-level activity · <a href="https://mapmyvisitors.com/b/policy" target="_blank" rel="noopener noreferrer">MapMyVisitors privacy policy</a></p>
 </section>
 
 <figure class="about-campus-note">
