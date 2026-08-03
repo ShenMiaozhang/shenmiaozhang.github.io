@@ -154,7 +154,7 @@
     }
 }
 
-// Homepage: public visitor globe, kept secondary to the research content.
+// Homepage: public visitor map, kept secondary to the research content.
 .visitor-footprint {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(220px, 320px);
@@ -246,9 +246,8 @@
     text-align: center;
 }
 
-.visitor-footprint__widget .mmvst_outer {
+.visitor-footprint__widget > * {
     max-width: 100%;
-    margin: 0 auto !important;
 }
 
 .visitor-footprint__note {
