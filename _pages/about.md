@@ -115,9 +115,9 @@ Collaborative and co-authored publications.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/Optics_Express2026.jpg' alt="Physics-informed deep optics pipeline for monocular depth estimation" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://yuyue-yang.github.io/)
+[Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.608898)
 
-**Yuyue Yang**, Miaozhang Shen, et al.
+Yuyue Yang, **Miaozhang Shen**, et al.
 
 *Optics Express*, Accepted 2026.7.30
 </div>
