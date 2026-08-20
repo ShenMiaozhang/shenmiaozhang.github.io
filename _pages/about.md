@@ -107,6 +107,18 @@ Representative first-author publications. Additional publications are listed bel
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ROBIO 2026</div><img src='images/robio_photo_overlay_concept.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/robio2026_draft.pdf)
+
+**Shen, M.**, Wang, Z., Guo, S., et al. (Under Review)
+
+*2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Tengchong, China.
+</div>
+</div>
+
+
 # 📚 Other Publications
 
 Collaborative and co-authored publications.
@@ -123,10 +135,10 @@ Yuyue Yang, **Miaozhang Shen**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA 2026</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/ICMA2026.pdf)
+[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://doi.org/10.1109/ICMA69663.2026.11647428)
 
 **Shen, M.**, Guo, S. et al.
 
