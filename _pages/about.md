@@ -301,9 +301,12 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 
 # 🛠️ Skills {#skills}
+- **Research:** 🧲Magnetic Localization &amp; Sensing, Magnetic Actuation &amp; Control, Electromagnetic Modeling, Vascular Intervention Robotics, Minimally Invasive Medical Robotics
 - **Programming:** ⌨️C/C++, Python, MATLAB
-- **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
-- **Hardware/Systems:** 🤖MCU/SOC, Sensor Integration, PCB Design, UAV, Battery Management Systems (BMS)
+- **Embedded Systems:** 🤖MCU/SoC, Firmware Development, Embedded Sensor Arrays, Real-Time Systems, Sensor Integration
+- **Hardware Design:** PCB Design, Hardware Prototyping, Sensor Interfaces
+- **Robotic Systems:** UAV/UGV System Integration, Sensor/Actuator Integration, Real-Time Control
+- **Tools/Software:** 🧰PyTorch, Keil, Altium Designer, SolidWorks, LaTeX
 - **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
 - **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
 
