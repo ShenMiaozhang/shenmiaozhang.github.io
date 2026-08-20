@@ -293,6 +293,13 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
   </li>
 </ol>
 
+# 🤝 Professional Service {#service}
+
+- **Conference Secretary** — *2027 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
+- **Conference Volunteer** — *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
+- **Conference Volunteer** — *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
+
+
 # 🛠️ Skills {#skills}
 - **Programming:** ⌨️C/C++, Python, MATLAB
 - **Tools/Software:** 🧰PyTorch, Keil, Altium Designer (PCB), SolidWorks, LaTeX
