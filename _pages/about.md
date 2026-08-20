@@ -23,10 +23,10 @@ redirect_from:
     <h1 id="about-hero-title">Hi! 👋 I am Miaozhang Shen</h1>
     <p class="about-hero__positioning">I develop physics-informed magnetic localization and sensing systems for medical robotics, with a focus on embedded sensor arrays, real-time systems, and reliable feedback under interference.</p>
     <ul class="research-keywords" aria-label="Research keywords">
-      <li>Magnetic localization &amp; sensing</li>
+      <li>Magnetic localization & sensing</li>
       <li>Medical robotics</li>
       <li>Electromagnetic modeling</li>
-      <li>Embedded sensor arrays &amp; real-time systems</li>
+      <li>Embedded sensor arrays & real-time systems</li>
       <li>Interference-robust feedback</li>
     </ul>
   </div>
@@ -245,7 +245,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
       <h2>Embedded Software Engineer</h2>
       <p class="experience-timeline__organization"><a href="https://www.makextool.com/">Shenzhen Makeblock Co., Ltd.</a></p>
       <ul>
-        <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU &amp; SOC platform).</li>
+        <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).</li>
         <li>Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.</li>
       </ul>
     </article>
@@ -301,7 +301,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 
 # 🛠️ Skills {#skills}
-- **Research:** 🧲Magnetic Localization &amp; Sensing, Magnetic Actuation &amp; Control, Electromagnetic Modeling, Vascular Intervention Robotics, Minimally Invasive Medical Robotics
+- **Research:** 🧲Magnetic Localization & Sensing, Magnetic Actuation & Control, Electromagnetic Modeling, Vascular Intervention Robotics, Minimally Invasive Medical Robotics
 - **Programming:** ⌨️C/C++, Python, MATLAB
 - **Embedded Systems:** 🤖MCU/SoC, Firmware Development, Embedded Sensor Arrays, Real-Time Systems, Sensor Integration
 - **Hardware Design:** PCB Design, Hardware Prototyping, Sensor Interfaces
