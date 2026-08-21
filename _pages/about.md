@@ -310,8 +310,6 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - **Languages:** 🌐Mandarin (Native), Teochew (Native), English (CET-6)
 - **Interests:** 🧑‍✈️Flight Simulation, 🛩️Drone Design/Prototyping, 📸Photography
 
-# 🚀 Projects {#projects}
-
 <section class="visitor-footprint" aria-labelledby="visitor-footprint-title">
   <div class="visitor-footprint__header">
     <div>
