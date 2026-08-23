@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Miaozhang Shen(沈淼章)"
-description              : "Magnetic sensing for medical robotics."
+description              : "Magnetic sensing and localization for minimally invasive medical robotics."
 repository               : "shenmiaozhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Miaozhang Shen（沈淼章）Leo Shen"
   avatar           : "images/smz.webp"
-  bio              : "M.S. Student in Electronic Information at SUSTech"
+  bio              : "M.S. Student · Magnetic Sensing & Medical Robotics"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science <br>and Technology(SUSTech)"
   pubmed           : 

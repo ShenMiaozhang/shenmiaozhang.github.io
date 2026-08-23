@@ -19,15 +19,15 @@ redirect_from:
 
 <section class="about-hero" aria-labelledby="about-hero-title">
   <div class="about-hero__copy">
-    <p class="about-hero__eyebrow">Research focus</p>
-    <h1 id="about-hero-title">Hi! 👋 I am Miaozhang Shen</h1>
-    <p class="about-hero__positioning">I develop physics-informed magnetic localization and sensing systems for medical robotics, with a focus on embedded sensor arrays, real-time systems, and reliable feedback under interference.</p>
+    <p class="about-hero__eyebrow">Miaozhang Shen · Research Focus</p>
+    <h1 id="about-hero-title">Magnetic sensing and localization for minimally invasive medical robotics</h1>
+    <p class="about-hero__positioning">I develop magnetic localization, sensing, and control systems for vascular intervention and capsule robots by integrating electromagnetic models, embedded sensor arrays, and real-time estimation.</p>
     <ul class="research-keywords" aria-label="Research keywords">
       <li>Magnetic localization & sensing</li>
-      <li>Medical robotics</li>
-      <li>Electromagnetic modeling</li>
-      <li>Embedded sensor arrays & real-time systems</li>
-      <li>Interference-robust feedback</li>
+      <li>Magnetic actuation & control</li>
+      <li>Vascular intervention</li>
+      <li>Capsule robotics</li>
+      <li>Embedded sensing & real-time systems</li>
     </ul>
   </div>
   <figure class="about-hero__media">
@@ -36,15 +36,11 @@ redirect_from:
   </figure>
 </section>
 
-Hello! Welcome to my website. My name is **Miaozhang Shen**, but you can also call me **Leo**. I come from  [Chaozhou, China.](https://en.wikipedia.org/wiki/Chaozhou) 
+I am pursuing an M.S. in Electronic Information at [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/), advised by [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en). I investigate how electromagnetic models, embedded sensor arrays, and real-time estimation can support reliable localization and feedback control despite magnetic interference and practical deployment constraints.
 
+My work covers vascular intervention and wireless capsule endoscopy through a system-level approach that connects sensing hardware, embedded firmware, estimation, and control.
 
-I received my B.S. degree in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) [(深圳大学物理与光电工程学院)](https://cpoe.szu.edu.cn/en/index.htm) in 2022. Currently, I am pursuing an M.S. degree in Electronic Information in the Department of Electronic and Electrical Engineering at the [**Southern University of Science and Technology (SUSTech)**](https://www.sustech.edu.cn/en/) [(南方科技大学电子与电气工程系)](https://eee.sustech.edu.cn/team-tructure.aspx?cid=84) in Shenzhen, starting from 2024.
-
-My supervisor is [Prof. Shuxiang Guo (郭书祥)](https://faculty.sustech.edu.cn/?tagid=guosx&iscss=1&snapid=1&orderby=date&go=2&lang=en) (IEEE Fellow, Fellow of Engineering Academy of Japan). I also serve as a teaching assistant for Prof. Guo. [Welcome to GUO Lab!](http://www.guolab.org)
-
-
-My work connects electromagnetic modeling with embedded sensor arrays and real-time systems. I study trustworthy localization and feedback-controlled release under interference, with applications in vascular intervention and wireless capsule endoscopy.
+I received my B.Eng. in Measurement Control Technology and Instrumentation from [**Shenzhen University**](https://en.szu.edu.cn/) in 2022 and worked as an embedded software engineer before beginning graduate study in 2024. This experience underpins my emphasis on practical implementation and experimental validation. I also serve as a teaching assistant for Prof. Guo and conduct my research in [GUO Lab](http://www.guolab.org).
 
 <figure class="about-campus-note">
   <img src="/images/DJI_20251120180653.webp" alt="Sunset over the SUSTech campus in Shenzhen" width="1200" height="676" loading="lazy" decoding="async">
