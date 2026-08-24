@@ -125,7 +125,7 @@ Collaborative and co-authored publications.
 
 [Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.608898)
 
-Yuyue Yang, **Miaozhang Shen**, et al.
+Yuyue Yang, **Miaozhang Shen**, Chao Wang, Shichen Su, Wei Huang, and Shuming Jiao
 
 *Optics Express*, Accepted 2026.7.30
 </div>
