@@ -27,6 +27,8 @@ redirect_from:
       <li>Magnetic actuation & control</li>
       <li>Vascular intervention</li>
       <li>Capsule robotics</li>
+      <li>Soft robotics</li>
+      <li>Soft magnetic sensing skin</li>
       <li>Embedded sensing & real-time systems</li>
     </ul>
   </div>
@@ -197,49 +199,69 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - *2019-2021* Multiple university honors including Excellent Student Leader and Innovation Star Scholarships
 
 <span class='anchor' id='-educations'></span>
-
-# 📖 Education {#education}
-
-<div class="education-grid">
-  <article class="education-card education-card--sustech">
-    <a class="education-card__logo-wrap" href="https://www.sustech.edu.cn/en/" aria-label="Visit the SUSTech website">
-      <img class="education-card__logo" src="/images/education/sustech-logo.png" alt="SUSTech emblem" width="260" height="260" loading="lazy" decoding="async">
-    </a>
-    <div class="education-card__body">
-      <p class="education-card__period"><time datetime="2024-09">Sep. 2024</time> – <time datetime="2027-06">Jun. 2027 (Expected)</time></p>
-      <h2><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a></h2>
-      <p class="education-card__degree">M.S. in Electronic Information</p>
-      <p class="education-card__location">Shenzhen, China</p>
-    </div>
-  </article>
-
-  <article class="education-card education-card--szu">
-    <a class="education-card__logo-wrap" href="https://en.szu.edu.cn/" aria-label="Visit the Shenzhen University website">
-      <img class="education-card__logo" src="/images/education/shenzhen-university-logo.png" alt="Shenzhen University emblem" width="86" height="86" loading="lazy" decoding="async">
-    </a>
-    <div class="education-card__body">
-      <p class="education-card__period"><time datetime="2018-09">Sep. 2018</time> – <time datetime="2022-06">Jun. 2022</time></p>
-      <h2><a href="https://en.szu.edu.cn/">Shenzhen University</a></h2>
-      <p class="education-card__degree">B.Eng. in Measurement Control Technology and Instrumentation</p>
-      <p class="education-card__location">Shenzhen, China</p>
-    </div>
-  </article>
-</div>
-
+<span class='anchor' id='education'></span>
 <span class='anchor' id='-professional-experience'></span>
 <span class='anchor' id='-internships'></span>
+<span class='anchor' id='experience'></span>
 
-# 💻 Experience {#experience}
+# Education & Experience {#timeline}
+
+<p class="section-intro">Graduate study, research, teaching, and engineering experience in chronological order.</p>
 
 <ol class="experience-timeline">
-  <li class="experience-timeline__item">
+  <li class="experience-timeline__item experience-timeline__item--education">
+    <div class="experience-timeline__date">
+      <span><time datetime="2024-09">Sep. 2024</time> – <time datetime="2027-06">Jun. 2027</time></span>
+      <span class="experience-timeline__date-note">Expected</span>
+    </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span><time datetime="2023-04">Apr. 2023</time> – <time datetime="2024-08">Aug. 2024</time></span>
+        <span class="experience-timeline__kind">Education</span>
+        <span class="experience-timeline__current">Current</span>
+      </div>
+      <div class="experience-timeline__identity">
+        <a class="experience-timeline__logo-wrap" href="https://www.sustech.edu.cn/en/" aria-label="Visit the SUSTech website">
+          <img class="experience-timeline__logo" src="/images/education/sustech-logo.png" alt="SUSTech emblem" width="260" height="260" loading="lazy" decoding="async">
+        </a>
+        <div>
+          <h2>M.S. in Electronic Information</h2>
+          <p class="experience-timeline__organization"><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a> · Shenzhen, China</p>
+        </div>
+      </div>
+    </article>
+  </li>
+
+  <li class="experience-timeline__item experience-timeline__item--teaching">
+    <div class="experience-timeline__date">
+      <span><time datetime="2025">2025</time> – <time datetime="2026">2026</time></span>
+    </div>
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span class="experience-timeline__kind">Teaching</span>
+      </div>
+      <h2>Teaching Assistant for MSc Courses</h2>
+      <p class="experience-timeline__organization"><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a></p>
+      <p class="experience-timeline__summary">Supporting instruction in entrepreneurship management, medical robotics, and data communications.</p>
+    </article>
+  </li>
+
+  <li class="experience-timeline__item experience-timeline__item--professional">
+    <div class="experience-timeline__date">
+      <span><time datetime="2023-04">Apr. 2023</time> – <time datetime="2024-08">Aug. 2024</time></span>
+    </div>
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
         <span class="experience-timeline__kind">Professional</span>
       </div>
-      <h2>Embedded Software Engineer</h2>
-      <p class="experience-timeline__organization"><a href="https://www.makextool.com/">Shenzhen Makeblock Co., Ltd.</a></p>
+      <div class="experience-timeline__identity experience-timeline__identity--company">
+        <a class="experience-timeline__logo-wrap experience-timeline__logo-wrap--company" href="https://www.xtool.com/" aria-label="Visit the xTool website">
+          <img class="experience-timeline__logo" src="/images/experience/xtool-logo.png" alt="xTool logo" width="512" height="512" loading="lazy" decoding="async">
+        </a>
+        <div>
+          <h2>Embedded Software Engineer</h2>
+          <p class="experience-timeline__organization"><a href="https://www.xtool.com/">xTool</a> · Shenzhen Makeblock Co., Ltd.</p>
+        </div>
+      </div>
       <ul>
         <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).</li>
         <li>Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.</li>
@@ -247,10 +269,12 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
     </article>
   </li>
 
-  <li class="experience-timeline__item">
+  <li class="experience-timeline__item experience-timeline__item--research">
+    <div class="experience-timeline__date">
+      <span><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></span>
+    </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></span>
         <span class="experience-timeline__kind">Research</span>
       </div>
       <h2>Research Assistant</h2>
@@ -262,21 +286,28 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
     </article>
   </li>
 
-  <li class="experience-timeline__item">
+  <li class="experience-timeline__item experience-timeline__item--internship">
+    <div class="experience-timeline__date">
+      <span><time datetime="2021-07">Jul. 2021</time> – <time datetime="2021-08">Aug. 2021</time></span>
+    </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span><time datetime="2021-07">Jul. 2021</time> – <time datetime="2021-08">Aug. 2021</time></span>
         <span class="experience-timeline__kind">Internship</span>
       </div>
-      <h2>Internship</h2>
+      <h2>UAV Flight-Control Development Intern</h2>
       <p class="experience-timeline__organization"><a href="https://www.aiutechnology.com/">AIUTechnology</a> · China</p>
+      <ul>
+        <li>Contributed to flight-control development for agricultural VTOL (vertical take-off and landing) UAVs.</li>
+      </ul>
     </article>
   </li>
 
-  <li class="experience-timeline__item">
+  <li class="experience-timeline__item experience-timeline__item--leadership">
+    <div class="experience-timeline__date">
+      <span><time datetime="2020-07">Jul. 2020</time> – <time datetime="2021-07">Jul. 2021</time></span>
+    </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span><time datetime="2020-07">Jul. 2020</time> – <time datetime="2021-07">Jul. 2021</time></span>
         <span class="experience-timeline__kind">Leadership</span>
       </div>
       <h2>Founder and Student Chair</h2>
@@ -287,7 +318,46 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
       </ul>
     </article>
   </li>
+
+  <li class="experience-timeline__item experience-timeline__item--education">
+    <div class="experience-timeline__date">
+      <span><time datetime="2018-09">Sep. 2018</time> – <time datetime="2022-06">Jun. 2022</time></span>
+    </div>
+    <article class="experience-timeline__card">
+      <div class="experience-timeline__meta">
+        <span class="experience-timeline__kind">Education</span>
+      </div>
+      <div class="experience-timeline__identity">
+        <a class="experience-timeline__logo-wrap" href="https://en.szu.edu.cn/" aria-label="Visit the Shenzhen University website">
+          <img class="experience-timeline__logo" src="/images/education/shenzhen-university-logo.png" alt="Shenzhen University emblem" width="86" height="86" loading="lazy" decoding="async">
+        </a>
+        <div>
+          <h2>B.Eng. in Measurement Control Technology and Instrumentation</h2>
+          <p class="experience-timeline__organization"><a href="https://en.szu.edu.cn/">Shenzhen University</a> · Shenzhen, China</p>
+        </div>
+      </div>
+    </article>
+  </li>
 </ol>
+
+# Teaching {#teaching}
+
+<p class="section-intro"><strong>Teaching Assistant</strong> for MSc courses at SUSTech · 2025–2026.</p>
+
+<ul class="teaching-list">
+  <li>
+    <span class="teaching-list__term">Fall 2025</span>
+    <div><strong>Entrepreneurship Management</strong> <span class="teaching-list__code">(INO 5031)</span><span class="teaching-list__instructor">Instructor: Liyang Shao (邵理阳)</span></div>
+  </li>
+  <li>
+    <span class="teaching-list__term">Spring 2026</span>
+    <div><strong>Medical Robotics Technology</strong> <span class="teaching-list__code">(EEE 5349)</span><span class="teaching-list__instructor">Instructor: Prof. Shuxiang Guo (郭书祥)</span></div>
+  </li>
+  <li>
+    <span class="teaching-list__term">Fall 2026</span>
+    <div><strong>Data Communications and Networks</strong> <span class="teaching-list__code">(EE 325)</span><span class="teaching-list__instructor">Instructor: Prof. Shuxiang Guo (郭书祥)</span></div>
+  </li>
+</ul>
 
 # 🤝 Professional Service {#service}
 
@@ -297,7 +367,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 
 # 🛠️ Skills {#skills}
-- **Research:** 🧲Magnetic Localization & Sensing, Magnetic Actuation & Control, Electromagnetic Modeling, Vascular Intervention Robotics, Minimally Invasive Medical Robotics
+- **Research:** 🧲Magnetic Localization & Sensing, Magnetic Actuation & Control, Electromagnetic Modeling, Vascular Intervention Robotics, Minimally Invasive Medical Robotics, Soft Robotics, Soft Magnetic Sensing Skin
 - **Programming:** ⌨️C/C++, Python, MATLAB
 - **Embedded Systems:** 🤖MCU/SoC, Firmware Development, Embedded Sensor Arrays, Real-Time Systems, Sensor Integration
 - **Hardware Design:** PCB Design, Hardware Prototyping, Sensor Interfaces

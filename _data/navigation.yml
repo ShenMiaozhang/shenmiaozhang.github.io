@@ -12,13 +12,13 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Education"
-    url: "/#education"
+  - title: "Timeline"
+    url: "/#timeline"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
-  - title: "Experience"
-    url: "/#experience"
+  - title: "Teaching"
+    url: "/#teaching"
 
   - title: "Service"
     url: "/#service"
