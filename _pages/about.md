@@ -206,17 +206,16 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 # Education & Experience {#timeline}
 
-<p class="section-intro">Graduate study, research, teaching, and engineering experience in chronological order.</p>
-
-<ol class="experience-timeline">
+<ol class="experience-timeline" role="list" aria-label="Education and career milestones, most recent first">
   <li class="experience-timeline__item experience-timeline__item--education">
     <div class="experience-timeline__date">
+      <strong class="experience-timeline__years">2024–2027</strong>
       <span><time datetime="2024-09">Sep. 2024</time> – <time datetime="2027-06">Jun. 2027</time></span>
       <span class="experience-timeline__date-note">Expected</span>
     </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Education</span>
+        <span class="experience-timeline__kind">Master’s study</span>
         <span class="experience-timeline__current">Current</span>
       </div>
       <div class="experience-timeline__identity">
@@ -228,30 +227,19 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
           <p class="experience-timeline__organization"><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a> · Shenzhen, China</p>
         </div>
       </div>
-    </article>
-  </li>
-
-  <li class="experience-timeline__item experience-timeline__item--teaching">
-    <div class="experience-timeline__date">
-      <span><time datetime="2025">2025</time> – <time datetime="2026">2026</time></span>
-    </div>
-    <article class="experience-timeline__card">
-      <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Teaching</span>
-      </div>
-      <h2>Teaching Assistant for MSc Courses</h2>
-      <p class="experience-timeline__organization"><a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a></p>
-      <p class="experience-timeline__summary">Supporting instruction in entrepreneurship management, medical robotics, and data communications.</p>
+      <p class="experience-timeline__summary">Magnetic sensing and localization for medical robotics.</p>
+      <p class="experience-timeline__teaching"><a href="#teaching">Teaching Assistant · 2025–2026 →</a></p>
     </article>
   </li>
 
   <li class="experience-timeline__item experience-timeline__item--professional">
     <div class="experience-timeline__date">
+      <strong class="experience-timeline__years">2023–2024</strong>
       <span><time datetime="2023-04">Apr. 2023</time> – <time datetime="2024-08">Aug. 2024</time></span>
     </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Professional</span>
+        <span class="experience-timeline__kind">Industry</span>
       </div>
       <div class="experience-timeline__identity experience-timeline__identity--company">
         <a class="experience-timeline__logo-wrap experience-timeline__logo-wrap--company" href="https://www.xtool.com/" aria-label="Visit the xTool website">
@@ -262,70 +250,25 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
           <p class="experience-timeline__organization"><a href="https://www.xtool.com/">xTool</a> · Shenzhen Makeblock Co., Ltd.</p>
         </div>
       </div>
-      <ul>
-        <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).</li>
-        <li>Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.</li>
-      </ul>
-    </article>
-  </li>
-
-  <li class="experience-timeline__item experience-timeline__item--research">
-    <div class="experience-timeline__date">
-      <span><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></span>
-    </div>
-    <article class="experience-timeline__card">
-      <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Research</span>
-      </div>
-      <h2>Research Assistant</h2>
-      <p class="experience-timeline__organization">Shenzhen University · College of Physics and Optoelectronic Engineering</p>
-      <ul>
-        <li>Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.</li>
-        <li>Designed and implemented sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.</li>
-      </ul>
-    </article>
-  </li>
-
-  <li class="experience-timeline__item experience-timeline__item--internship">
-    <div class="experience-timeline__date">
-      <span><time datetime="2021-07">Jul. 2021</time> – <time datetime="2021-08">Aug. 2021</time></span>
-    </div>
-    <article class="experience-timeline__card">
-      <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Internship</span>
-      </div>
-      <h2>UAV Flight-Control Development Intern</h2>
-      <p class="experience-timeline__organization"><a href="https://www.aiutechnology.com/">AIUTechnology</a> · China</p>
-      <ul>
-        <li>Contributed to flight-control development for agricultural VTOL (vertical take-off and landing) UAVs.</li>
-      </ul>
-    </article>
-  </li>
-
-  <li class="experience-timeline__item experience-timeline__item--leadership">
-    <div class="experience-timeline__date">
-      <span><time datetime="2020-07">Jul. 2020</time> – <time datetime="2021-07">Jul. 2021</time></span>
-    </div>
-    <article class="experience-timeline__card">
-      <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Leadership</span>
-      </div>
-      <h2>Founder and Student Chair</h2>
-      <p class="experience-timeline__organization">Innovation Laboratory · Shenzhen University</p>
-      <ul>
-        <li>Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.</li>
-        <li>Mentored teams for science events, resulting in multiple provincial and national competition awards.</li>
-      </ul>
+      <p class="experience-timeline__summary">Embedded firmware and sensor fusion for desktop laser engraving systems.</p>
+      <details class="experience-details">
+        <summary>Engineering contributions</summary>
+        <ul>
+          <li>Engineered embedded firmware for a consumer-grade desktop laser engraving machine (MCU & SOC platform).</li>
+          <li>Solved modular tool recognition issues by implementing a pressure and magnetic dual-sensor fusion scheme, leading to two patent applications.</li>
+        </ul>
+      </details>
     </article>
   </li>
 
   <li class="experience-timeline__item experience-timeline__item--education">
     <div class="experience-timeline__date">
+      <strong class="experience-timeline__years">2018–2022</strong>
       <span><time datetime="2018-09">Sep. 2018</time> – <time datetime="2022-06">Jun. 2022</time></span>
     </div>
     <article class="experience-timeline__card">
       <div class="experience-timeline__meta">
-        <span class="experience-timeline__kind">Education</span>
+        <span class="experience-timeline__kind">Bachelor’s study</span>
       </div>
       <div class="experience-timeline__identity">
         <a class="experience-timeline__logo-wrap" href="https://en.szu.edu.cn/" aria-label="Visit the Shenzhen University website">
@@ -339,6 +282,38 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
     </article>
   </li>
 </ol>
+
+<details class="early-experience">
+  <summary>Earlier research & activities <span class="early-experience__period">2020–2022</span></summary>
+  <div class="early-experience__body">
+    <article class="early-experience__entry">
+      <p class="early-experience__date"><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></p>
+      <h2>Research Assistant</h2>
+      <p class="experience-timeline__organization">Shenzhen University · College of Physics and Optoelectronic Engineering</p>
+      <ul>
+        <li>Developed embedded software and hardware for a Battery Management System (BMS) utilizing ultrasonic inspection.</li>
+        <li>Designed and implemented sensor fusion algorithms for state-of-charge (SoC) estimation, enhancing measurement stability.</li>
+      </ul>
+    </article>
+    <article class="early-experience__entry">
+      <p class="early-experience__date"><time datetime="2021-07">Jul. 2021</time> – <time datetime="2021-08">Aug. 2021</time></p>
+      <h2>UAV Flight-Control Development Intern</h2>
+      <p class="experience-timeline__organization"><a href="https://www.aiutechnology.com/">AIUTechnology</a> · China</p>
+      <ul>
+        <li>Contributed to flight-control development for agricultural VTOL (vertical take-off and landing) UAVs.</li>
+      </ul>
+    </article>
+    <article class="early-experience__entry">
+      <p class="early-experience__date"><time datetime="2020-07">Jul. 2020</time> – <time datetime="2021-07">Jul. 2021</time></p>
+      <h2>Founder and Student Chair</h2>
+      <p class="experience-timeline__organization">Innovation Laboratory · Shenzhen University</p>
+      <ul>
+        <li>Founded and managed the college's first student-led scientific innovation laboratory, leading technical training sessions.</li>
+        <li>Mentored teams for science events, resulting in multiple provincial and national competition awards.</li>
+      </ul>
+    </article>
+  </div>
+</details>
 
 # Teaching {#teaching}
 
@@ -361,6 +336,8 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 # 🤝 Professional Service {#service}
 
+- **Reviewer** — *IEEE International Conference on Robotics and Automation (ICRA)*
+- **Reviewer** — *IEEE International Conference on Robotics and Biomimetics (ROBIO)*
 - **Conference Secretary** — *2027 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
 - **Conference Volunteer** — *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
 - **Conference Volunteer** — *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
