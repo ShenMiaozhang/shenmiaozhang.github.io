@@ -336,11 +336,9 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 # 🤝 Professional Service {#service}
 
-- **Reviewer** — *IEEE International Conference on Robotics and Automation (ICRA)*
-- **Reviewer** — *IEEE International Conference on Robotics and Biomimetics (ROBIO)*
-- **Conference Secretary** — *2027 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
-- **Conference Volunteer** — *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
-- **Conference Volunteer** — *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*<br>
+- **Reviewer** — *IEEE ICRA、IEEE ROBIO*
+- **Conference Secretary** — *IEEE ICMA 2027*
+- **Conference Volunteer** — *IEEE ICMA 2025、2026*
 
 
 # 🛠️ Skills {#skills}
