@@ -1,5 +1,5 @@
 /* Black and white is the default on every fresh page load. */
-html:not([data-color-mode="color"]) {
+html:not([data-color-mode="color"]) body > :not(.color-mode-switch) {
   filter: grayscale(1);
 }
 
@@ -40,6 +40,28 @@ html:not([data-color-mode="color"]) {
 
 .color-mode-switch__button[aria-pressed="true"] {
   background: #333;
+  color: #fff;
+}
+
+.color-mode-switch__button[data-color-mode-choice="color"] {
+  background: #eef4ff;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+.color-mode-switch__button[data-color-mode-choice="color"]::before {
+  content: "";
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: conic-gradient(#e24456, #f2a93b, #33a47d, #397be2, #9258c7, #e24456);
+  vertical-align: -1px;
+}
+
+.color-mode-switch__button[data-color-mode-choice="color"][aria-pressed="true"] {
+  background: #1d4ed8;
   color: #fff;
 }
 
