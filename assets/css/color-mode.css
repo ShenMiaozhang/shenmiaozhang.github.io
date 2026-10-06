@@ -1,0 +1,55 @@
+/* Black and white is the default on every fresh page load. */
+html:not([data-color-mode="color"]) {
+  filter: grayscale(1);
+}
+
+.color-mode-switch {
+  position: fixed;
+  right: max(1rem, env(safe-area-inset-right));
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  z-index: 30;
+  display: inline-flex;
+  gap: 3px;
+  padding: 3px;
+  border: 1px solid #c8c8c8;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .08);
+  font-family: inherit;
+}
+
+.color-mode-switch[hidden] {
+  display: none;
+}
+
+.color-mode-switch__button {
+  min-width: 56px;
+  min-height: 44px;
+  margin: 0;
+  padding: 0 12px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #555;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.color-mode-switch__button[aria-pressed="true"] {
+  background: #333;
+  color: #fff;
+}
+
+.color-mode-switch__button:focus-visible {
+  outline: 2px solid #555;
+  outline-offset: 3px;
+}
+
+@media print {
+  .color-mode-switch {
+    display: none;
+  }
+}
