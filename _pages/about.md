@@ -56,15 +56,16 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 <div class="news-latest" markdown="1">
 
+- *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
 - *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
-- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
 
 </div>
 
 <details class="news-archive" markdown="1">
-<summary>Earlier news <span class="news-archive__count">8 updates</span></summary>
+<summary>Earlier news <span class="news-archive__count">9 updates</span></summary>
 
+- *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
 - *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
 - *Jan. 2026*: &nbsp;🎉🎉 Our paper "Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure" was accepted by Biomimetics.
 - *Dec. 2025*: &nbsp;🎉🎉 Honored to be recognized as one of the 💎**TOP 3** contributors in Guolab.
@@ -190,6 +191,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </div>
 
 # 🎖 Honors and Awards
+- *2026* National Scholarship for Graduate Students.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
 - *2025* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**
 - *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
