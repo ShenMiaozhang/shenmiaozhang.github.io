@@ -259,6 +259,40 @@
     text-align: right;
 }
 
+// Homepage: a quiet, permanent dedication after the visitor map.
+.memorial-note {
+    margin: 3.5em 0 1em;
+    padding: 2em 1em 3em;
+    color: mix(#fff, $text-color, 18%);
+    font-family: $sans-serif;
+    text-align: center;
+
+    &::before {
+        content: "";
+        display: block;
+        width: 3.5em;
+        height: 1px;
+        margin: 0 auto 1.75em;
+        background: mix($border-color, $text-color, 65%);
+    }
+
+    h2 {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        color: mix(#fff, $text-color, 8%);
+        font-size: 1.15em;
+        font-weight: 500;
+        line-height: 1.5;
+    }
+
+    p {
+        margin: 1.15em 0 0;
+        font-size: .88em;
+        line-height: 1.8;
+    }
+}
+
 @keyframes visitor-pulse {
     0%, 100% {
         opacity: .55;

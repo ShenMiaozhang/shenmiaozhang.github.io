@@ -56,15 +56,16 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 <div class="news-latest" markdown="1">
 
+- *Oct. 2026*: Our paper "Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry" was accepted by IEEE ROBIO 2026.
 - *Oct. 2026*: Received the 2026 SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
 - *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
-- *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 
 </div>
 
 <details class="news-archive" markdown="1">
-<summary>Earlier news <span class="news-archive__count">10 updates</span></summary>
+<summary>Earlier news <span class="news-archive__count">11 updates</span></summary>
 
+- *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
 - *Mar. 2026*: &nbsp;🎉🎉 Honored to receive the SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; sole recipient in the department).
@@ -112,9 +113,9 @@ Representative first-author publications. Additional publications are listed bel
 
 [Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/robio2026_draft.pdf)
 
-**Shen, M.**, Wang, Z., Guo, S., et al. (Under Review)
+**Shen, M.**, Wang, Z., Guo, S., et al.
 
-*2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Tengchong, China.
+*2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Tengchong, China. (Accepted)
 </div>
 </div>
 
@@ -369,4 +370,11 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
     <noscript>Enable JavaScript to view the visitor map.</noscript>
   </div>
   <p class="visitor-footprint__note">Approximate country-level activity · <a href="https://mapmyvisitors.com/b/policy" target="_blank" rel="noopener noreferrer">MapMyVisitors privacy policy</a></p>
+</section>
+
+<section class="memorial-note" aria-labelledby="memorial-note-title">
+  <h2 id="memorial-note-title">In Loving Memory of My Mother</h2>
+  <p class="memorial-note__dedication"><em>Forever loved, forever remembered.</em></p>
+  <p class="memorial-note__translation" lang="zh-Hans">永远怀念我的母亲。</p>
+  <p class="memorial-note__translation" lang="vi">Mãi mãi nhớ thương mẹ.</p>
 </section>
