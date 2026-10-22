@@ -82,7 +82,7 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Selected Publications
+# 📝 First-Author Publications (5)
 
 Representative first-author publications. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
 
@@ -119,8 +119,29 @@ Representative first-author publications. Additional publications are listed bel
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA 2026</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📚 Other Publications
+[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://doi.org/10.1109/ICMA69663.2026.11647428)
+
+**Shen, M.**, Guo, S. et al.
+
+*2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.webp' alt="Differential magnetic sensing system for capsule robot localization" loading="lazy" decoding="async" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
+
+**Shen, M.**, Guo, S., Wang, Z., et al.
+
+*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
+</div>
+</div>
+
+# 📚 Co-Authored Publications (4)
 
 Collaborative and co-authored publications.
 
@@ -133,17 +154,6 @@ Collaborative and co-authored publications.
 Yuyue Yang, **Miaozhang Shen**, Chao Wang, Shichen Su, Wei Huang, and Shuming Jiao
 
 *Optics Express*, Accepted 2026.7.30
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICMA 2026</div><img src='images/icma2026.webp' alt="Magnetic surgical navigation anomaly detection and directional warning method" loading="lazy" decoding="async" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://doi.org/10.1109/ICMA69663.2026.11647428)
-
-**Shen, M.**, Guo, S. et al.
-
-*2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
 </div>
 </div>
 
@@ -170,17 +180,6 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025.webp' alt="Differential magnetic sensing system for capsule robot localization" loading="lazy" decoding="async" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
-
-**Shen, M.**, Guo, S., Wang, Z., et al.
-
-*2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMA 2025</div><img src='images/ICMA2025-1.webp' alt="Flexible soft robotic bandage for gastrointestinal wound coverage" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -193,10 +192,10 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </div>
 
 # 🎖 Honors and Awards
-- *2026* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**
-- *2026* National Scholarship for Graduate Students.
+- *2026* National Scholarship, Ministry of Education of China **(5 of ~100 M.S. students in the department)**.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
-- *2025* SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**
+- *2025 and 2026* SUSTech Grand Prize for Graduate Research Assistantship.
+- *2025* SUSTech Graduate Academic Scholarship (Grand Prize).
 - *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
 - *2021* **1st Prize (Provincial)**, 12th "Lanqiao Cup" Software and IT Competition, Guangdong
 - *2021* Shenzhen University Liyuan Star Scholarship **(Top 5% Scholarship)**
@@ -341,7 +340,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 
 # 🤝 Professional Service {#service}
 
-- **Reviewer** — *IEEE ICRA、IEEE ROBIO*
+- **Reviewer** — *IEEE International Conference on Robotics and Automation (ICRA), 2026; IEEE International Conference on Robotics and Biomimetics (ROBIO), 2026*
 - **Conference Secretary** — *IEEE ICMA 2027*
 - **Conference Volunteer** — *IEEE ICMA 2025、2026*
 
