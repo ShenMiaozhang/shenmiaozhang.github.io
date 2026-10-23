@@ -291,7 +291,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
   <summary>Earlier research & activities <span class="early-experience__period">2020–2022</span></summary>
   <div class="early-experience__body">
     <article class="early-experience__entry">
-      <p class="early-experience__date"><time datetime="2021-12">Dec. 2021</time> – <time datetime="2022-10">Oct. 2022</time></p>
+      <p class="early-experience__date"><time datetime="2022-05">May 2022</time> – <time datetime="2023-02">Feb. 2023</time><br><time datetime="2021-05">May 2021</time> – <time datetime="2022-02">Feb. 2022</time></p>
       <h2>Research Assistant</h2>
       <p class="experience-timeline__organization">Shenzhen University · College of Physics and Optoelectronic Engineering</p>
       <ul>
