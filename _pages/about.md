@@ -195,7 +195,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 - *2026* National Scholarship, Ministry of Education of China **(5 of ~100 M.S. students in the department)**.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
 - *2025 and 2026* SUSTech Grand Prize for Graduate Research Assistantship.
-- *2025* SUSTech Graduate Academic Scholarship (Grand Prize).
+- *2025 and 2026* SUSTech Graduate Academic Scholarship (Grand Prize).
 - *2021* **1st Place (National)**, National College Students Optoelectronic Design Competition
 - *2021* **1st Prize (Provincial)**, 12th "Lanqiao Cup" Software and IT Competition, Guangdong
 - *2021* Shenzhen University Liyuan Star Scholarship **(Top 5% Scholarship)**
