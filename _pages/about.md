@@ -151,8 +151,6 @@ Project page: [IEEE ICMA 2025](https://shenmiaozhang-icma-2025.netlify.app/proje
 </div>
 </div>
 
-Manuscript in preparation: [IEEE T-RO project page](https://shenmiaozhang-tro-2026.netlify.app/projects/tro-2026/).
-
 # 📚 Co-Authored Publications (4)
 
 Collaborative and co-authored publications.
