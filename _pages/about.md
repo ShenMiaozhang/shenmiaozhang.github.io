@@ -94,6 +94,8 @@ Representative first-author publications. Additional publications are listed bel
 **Shen, M.**, Guo, S., Wang, Z. et al.
 
 *IEEE Transactions on Industrial Informatics*, 2026
+
+Project page: [IEEE TII 2026](https://shenmiaozhang-tii-2026.netlify.app/projects/tii-2026-pirnet/)
 </div>
 </div>
 
@@ -105,6 +107,8 @@ Representative first-author publications. Additional publications are listed bel
 **Shen, M.**, Guo, S., Wang, Z. et al.
 
 *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
+
+Project page: [IROS 2025](https://shenmiaozhang-iros-2025.netlify.app/projects/iros-2025/)
 </div>
 </div>
 
@@ -116,6 +120,8 @@ Representative first-author publications. Additional publications are listed bel
 **Shen, M.**, Wang, Z., Guo, S., et al.
 
 *2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Tengchong, China. (Accepted)
+
+Project page: [IEEE ROBIO 2026](https://shenmiaozhang-robio-2026.netlify.app/)
 </div>
 </div>
 
@@ -127,6 +133,8 @@ Representative first-author publications. Additional publications are listed bel
 **Shen, M.**, Guo, S. et al.
 
 *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
+
+Project page: [IEEE ICMA 2026](https://shenmiaozhang-icma-2026.netlify.app/projects/icma-2026/)
 </div>
 </div>
 
@@ -138,8 +146,12 @@ Representative first-author publications. Additional publications are listed bel
 **Shen, M.**, Guo, S., Wang, Z., et al.
 
 *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
+
+Project page: [IEEE ICMA 2025](https://shenmiaozhang-icma-2025.netlify.app/projects/icma-2025/)
 </div>
 </div>
+
+Manuscript in preparation: [IEEE T-RO project page](https://shenmiaozhang-tro-2026.netlify.app/projects/tro-2026/).
 
 # 📚 Co-Authored Publications (4)
 
