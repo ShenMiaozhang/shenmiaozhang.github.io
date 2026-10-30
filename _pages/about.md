@@ -204,10 +204,16 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 # 🚀 Projects {#projects}
 
 <article class="featured-project" aria-labelledby="magnetic-observatory-title">
-  <h3 id="magnetic-observatory-title">Magnetic Localization Observatory</h3>
-  <p>A bilingual interactive tool for exploring magnetic dipole fields and three-axis sensor-array measurements. Adjust dipole position and orientation, add magnetic interference, and inspect field vectors, component maps, cross-sections, and sensor-array plots.</p>
-  <p class="featured-project__links"><a href="https://shenmiaozhang.github.io/magnetic-localization-observatory/?lang=en">Open the interactive observatory</a><span aria-hidden="true">·</span><a href="https://github.com/ShenMiaozhang/magnetic-localization-observatory">View source code (MIT)</a></p>
-  <p class="featured-project__note">All displayed values are synthetic and generated locally from an analytic forward model.</p>
+  <div class="featured-project__content">
+    <h3 id="magnetic-observatory-title">Magnetic Localization Observatory</h3>
+    <p>A bilingual interactive tool for exploring magnetic dipole fields and three-axis sensor-array measurements. Adjust dipole position and orientation, add magnetic interference, and inspect field vectors, component maps, cross-sections, and sensor-array plots.</p>
+    <p class="featured-project__links"><a href="https://shenmiaozhang.github.io/magnetic-localization-observatory/?lang=en">Open the interactive observatory</a><span aria-hidden="true">·</span><a href="https://github.com/ShenMiaozhang/magnetic-localization-observatory">View source code (MIT)</a></p>
+    <p class="featured-project__note">All displayed values are synthetic and generated locally from an analytic forward model.</p>
+  </div>
+  <figure class="featured-project__figure">
+    <img src="/images/magnetic-localization-observatory.png" alt="Observatory screenshot showing an interfering magnetic dipole, field section, and sensor-array plots" width="1156" height="1056" loading="lazy" decoding="async">
+    <figcaption>Interfering dipole, field section and sensor-array plots · Synthetic visualization</figcaption>
+  </figure>
 </article>
 
 # 🎖 Honors and Awards
