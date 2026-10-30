@@ -437,8 +437,10 @@
     }
 
     .featured-project__figure {
+        width: 100%;
+        max-width: 300px;
         min-width: 0;
-        margin: 0;
+        margin: 0 auto;
 
         img {
             display: block;
@@ -457,8 +459,14 @@
     }
 
     @include breakpoint($medium) {
-        grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+        grid-template-columns: minmax(0, 1.3fr) minmax(0, .9fr);
         align-items: center;
+
+        .featured-project__figure {
+            max-width: 360px;
+            margin-right: 0;
+            margin-left: auto;
+        }
     }
 }
 
