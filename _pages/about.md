@@ -201,6 +201,15 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </div>
 </div>
 
+# 🚀 Projects {#projects}
+
+<article class="featured-project" aria-labelledby="magnetic-observatory-title">
+  <h3 id="magnetic-observatory-title">Magnetic Localization Observatory</h3>
+  <p>A bilingual interactive tool for exploring magnetic dipole fields and three-axis sensor-array measurements. Adjust dipole position and orientation, add magnetic interference, and inspect field vectors, component maps, cross-sections, and sensor-array plots.</p>
+  <p class="featured-project__links"><a href="https://shenmiaozhang.github.io/magnetic-localization-observatory/?lang=en">Open the interactive observatory</a><span aria-hidden="true">·</span><a href="https://github.com/ShenMiaozhang/magnetic-localization-observatory">View source code (MIT)</a></p>
+  <p class="featured-project__note">All displayed values are synthetic and generated locally from an analytic forward model.</p>
+</article>
+
 # 🎖 Honors and Awards
 - *2026* National Scholarship, Ministry of Education of China **(5 of ~100 M.S. students in the department)**.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).

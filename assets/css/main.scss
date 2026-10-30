@@ -401,6 +401,39 @@
     }
 }
 
+.featured-project {
+    margin: 1.25em 0 2em;
+    padding: 1.25em 1.4em;
+    border: 1px solid $border-color;
+    border-left: 3px solid $link-color;
+    border-radius: 8px;
+    background: mix(#fff, $link-color, 98%);
+
+    h3 {
+        margin: 0 0 .55em;
+        font-size: 1.12em;
+    }
+
+    p {
+        margin: .6em 0;
+        line-height: 1.65;
+    }
+
+    .featured-project__links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .35em .65em;
+        align-items: center;
+        font-weight: 600;
+    }
+
+    .featured-project__note {
+        margin-bottom: 0;
+        color: mix(#fff, $text-color, 20%);
+        font-size: .82em;
+    }
+}
+
 $scroll_offset: 4.5rem;
 
 h1[id] {
