@@ -57,7 +57,7 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 <div class="news-latest" markdown="1">
 
 - *Oct. 2026*: Our paper "Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry" was accepted by IEEE ROBIO 2026.
-- *Oct. 2026*: Received the 2026 SUSTech Outstanding Graduate Research Assistant Award **(Top 20% in department)**.
+- *Oct. 2026*: Received the 2026 SUSTech Grand Prize for Graduate Research Assistantship & Graduate Academic Scholarship (Grand Prize). **(Top 20% in department)**.
 - *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
 
 </div>
@@ -217,6 +217,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </article>
 
 # 🎖 Honors and Awards
+- *Nov. 2026* Ocean Elite Scholarship (First-Class Award), Advanced Institute for Ocean Research (AIOR), SUSTech **(1st/27)**.
 - *2026* National Scholarship, Ministry of Education of China **(5 of ~100 M.S. students in the department)**.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
 - *2025 and 2026* SUSTech Grand Prize for Graduate Research Assistantship.
