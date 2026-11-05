@@ -56,15 +56,16 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 <div class="news-latest" markdown="1">
 
+- *Nov. 2026*: Received the Ocean Elite Scholarship (First-Class Award), Advanced Institute for Ocean Research (AIOR), SUSTech **(1st/27)**.
 - *Oct. 2026*: Our paper "Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry" was accepted by IEEE ROBIO 2026.
 - *Oct. 2026*: Received the 2026 SUSTech Grand Prize for Graduate Research Assistantship & Graduate Academic Scholarship (Grand Prize). **(Top 20% in department)**.
-- *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
 
 </div>
 
 <details class="news-archive" markdown="1">
-<summary>Earlier news <span class="news-archive__count">11 updates</span></summary>
+<summary>Earlier news <span class="news-archive__count">12 updates</span></summary>
 
+- *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
 - *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Our paper "A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy" was accepted by IEEE Transactions on Industrial Informatics.
@@ -217,7 +218,7 @@ Wang, Z., **Shen, M.**, Guo, S. et al.
 </article>
 
 # 🎖 Honors and Awards
-- *Nov. 2026* Ocean Elite Scholarship (First-Class Award), Advanced Institute for Ocean Research (AIOR), SUSTech **(1st/27)**.
+- *2026* Ocean Elite Scholarship (First-Class Award), Advanced Institute for Ocean Research (AIOR), SUSTech **(1st/27)**.
 - *2026* National Scholarship, Ministry of Education of China **(5 of ~100 M.S. students in the department)**.
 - *2026* SUSTech Outstanding Graduate Teaching Assistant Award (Fall 2025; **sole recipient in the department**).
 - *2025 and 2026* SUSTech Grand Prize for Graduate Research Assistantship.
