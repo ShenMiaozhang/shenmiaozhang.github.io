@@ -56,15 +56,16 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 <div class="news-latest" markdown="1">
 
+- *Nov. 2026*: Our collaborative paper ["YingLong-T: A compact triphibious vehicle prototype with a unified powertrain for multi-domain locomotion"](https://doi.org/10.1016/j.oceaneng.2026.129153) was published online in *Ocean Engineering*.
 - *Nov. 2026*: Received the Ocean Elite Scholarship (First-Class Award), Advanced Institute for Ocean Research (AIOR), SUSTech **(1st/27)**.
 - *Oct. 2026*: Our paper "Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry" was accepted by IEEE ROBIO 2026.
-- *Oct. 2026*: Received the 2026 SUSTech Grand Prize for Graduate Research Assistantship & Graduate Academic Scholarship (Grand Prize). **(Top 20% in department)**.
 
 </div>
 
 <details class="news-archive" markdown="1">
-<summary>Earlier news <span class="news-archive__count">12 updates</span></summary>
+<summary>Earlier news <span class="news-archive__count">13 updates</span></summary>
 
+- *Oct. 2026*: Received the 2026 SUSTech Grand Prize for Graduate Research Assistantship & Graduate Academic Scholarship (Grand Prize). **(Top 20% in department)**.
 - *Oct. 2026*: Received the 2026 National Scholarship for Graduate Students.
 - *Jul. 2026*: &nbsp;🎉🎉 Our collaborative paper "Physics-Informed Deep Optics: Chromatic Aberrations for Monocular Depth Estimation" was accepted by Optics Express.
 - *May. 2026*: &nbsp;🎉🎉 Our paper "A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation" was accepted by IEEE ICMA 2026.
@@ -152,9 +153,20 @@ Project page: [IEEE ICMA 2025](https://shenmiaozhang-icma-2025.netlify.app/proje
 </div>
 </div>
 
-# 📚 Co-Authored Publications (4)
+# 📚 Co-Authored Publications (5)
 
 Collaborative and co-authored publications.
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[YingLong-T: A compact triphibious vehicle prototype with a unified powertrain for multi-domain locomotion](https://doi.org/10.1016/j.oceaneng.2026.129153)
+
+Le Huang, Shuxiang Guo, Qirong Lei, **Miaozhang Shen**, Chunying Li, Siying Pu, Shuaixin Peng, Guoheng Ma, Jinglei Nie, and Pengcheng Li
+
+*Ocean Engineering*, 370, 129153 (2026). Published online Nov. 5, 2026.
+</div>
+</div>
 
 <!-- ======================================================== Publications: 2026 ============================================================================= -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/Optics_Express2026.jpg' alt="Physics-informed deep optics pipeline for monocular depth estimation" loading="lazy" decoding="async" width="100%"></div></div>
