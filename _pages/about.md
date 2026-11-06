@@ -86,14 +86,14 @@ I received my B.Eng. in Measurement Control Technology and Instrumentation from 
 
 # 📝 First-Author Publications (5)
 
-Representative first-author publications. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
+Representative first-author publications. An asterisk (*) marks the corresponding author. Additional publications are listed below; the complete record is also available on [Google Scholar](https://scholar.google.com/citations?user=KT1uO6cAAAAJ&hl).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/TII-2026.webp' alt="Experimental platform and tracking results for physics-informed magnetic localization" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Physics-Informed Residual Learning Method for Real-Time 5-DoF Magnetic Localization in Capsule Endoscopy](https://doi.org/10.1109/TII.2026.3688686)
 
-**Shen, M.**, Guo, S., Wang, Z. et al.
+**Shen, M.**, Guo, S.*, Wang, Z. et al.
 
 *IEEE Transactions on Industrial Informatics*, 2026
 
@@ -106,7 +106,7 @@ Project page: [IEEE TII 2026](https://shenmiaozhang-tii-2026.netlify.app/project
 
 [Physics-Informed Residual Network for Magnetic Dipole Model Correction and High-Accuracy Localization](https://doi.org/10.1109/IROS60139.2025.11246085)
 
-**Shen, M.**, Guo, S., Wang, Z. et al.
+**Shen, M.**, Guo, S.*, Wang, Z. et al.
 
 *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China
 
@@ -119,7 +119,7 @@ Project page: [IROS 2025](https://shenmiaozhang-iros-2025.netlify.app/projects/i
 
 [Magnetic Distal-Orientation Feedback for Topology-Guided Robotic Guidewire Branch Entry](https://github.com/ShenMiaozhang/shenmiaozhang.github.io/blob/main/images/paper/robio2026_draft.pdf)
 
-**Shen, M.**, Wang, Z., Guo, S., et al.
+**Shen, M.**, Wang, Z., Guo, S.*, et al.
 
 *2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Tengchong, China. (Accepted)
 
@@ -132,7 +132,7 @@ Project page: [IEEE ROBIO 2026](https://shenmiaozhang-robio-2026.netlify.app/)
 
 [A Real-Time Anomaly Detection and Directional Warning Method for Magnetic Surgical Navigation](https://doi.org/10.1109/ICMA69663.2026.11647428)
 
-**Shen, M.**, Guo, S. et al.
+**Shen, M.**, Guo, S.* et al.
 
 *2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China
 
@@ -145,7 +145,7 @@ Project page: [IEEE ICMA 2026](https://shenmiaozhang-icma-2026.netlify.app/proje
 
 [Differential Magnetic Sensing with Dynamic Background Calibration for the Capsule Robot Localization in Dynamic Environments](https://doi.org/10.1109/ICMA65362.2025.11120690)
 
-**Shen, M.**, Guo, S., Wang, Z., et al.
+**Shen, M.**, Guo, S.*, Wang, Z., et al.
 
 *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
 
@@ -162,7 +162,7 @@ Collaborative and co-authored publications.
 
 [YingLong-T: A compact triphibious vehicle prototype with a unified powertrain for multi-domain locomotion](https://doi.org/10.1016/j.oceaneng.2026.129153)
 
-Le Huang, Shuxiang Guo, Qirong Lei, **Miaozhang Shen**, Chunying Li, Siying Pu, Shuaixin Peng, Guoheng Ma, Jinglei Nie, and Pengcheng Li
+Le Huang, Shuxiang Guo*, Qirong Lei, **Miaozhang Shen**, Chunying Li, Siying Pu, Shuaixin Peng, Guoheng Ma, Jinglei Nie, and Pengcheng Li
 
 *Ocean Engineering*, 370, 129153 (2026). Published online Nov. 5, 2026.
 </div>
@@ -185,7 +185,7 @@ Yuyue Yang, **Miaozhang Shen**, Chao Wang, Shichen Su, Wei Huang, and Shuming Ji
 
 [Navigation and Load Adaptability of a Flatworm-Inspired Soft Robot Actuated by Staggered Magnetization Structure](https://doi.org/10.3390/biomimetics11010041)
 
-Wang, Z. **Shen, M.**, Guo, S. et al.
+Wang, Z. **Shen, M.**, Guo, S.* et al.
 
 *Biomimetics*, Published 2026.1.6
 </div>
@@ -208,7 +208,7 @@ Yang, Y., Azad, F., Huang, Z., **Shen, M.**, Su, S.
 
 [A Novel Flexible Soft Robotic-Bandage for Gastrointestinal Wound Coverage Function](https://doi.org/10.1109/ICMA65362.2025.11120828)
 
-Wang, Z., **Shen, M.**, Guo, S. et al.
+Wang, Z., **Shen, M.**, Guo, S.* et al.
 
 *2025 IEEE International Conference on Mechatronics and Automation (ICMA)*, Beijing, China
 </div>
