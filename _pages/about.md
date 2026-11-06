@@ -157,7 +157,7 @@ Project page: [IEEE ICMA 2025](https://shenmiaozhang-icma-2025.netlify.app/proje
 
 Collaborative and co-authored publications.
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ocean Engineering</div><img src='images/YingLong-T-OceanEngineering2026.png' alt="Four-view prototype image of the YingLong-T triphibious vehicle: front, side, top, and isometric views" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [YingLong-T: A compact triphibious vehicle prototype with a unified powertrain for multi-domain locomotion](https://doi.org/10.1016/j.oceaneng.2026.129153)
